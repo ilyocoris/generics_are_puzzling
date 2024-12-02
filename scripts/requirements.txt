@@ -1,0 +1,14 @@
+torch
+pandas
+tqdm
+datasets
+sentence-splitter
+transformers
+nltk
+accelerate
+pytest
+python-dotenv
+bitsandbytes
+pydantic
+langchain
+stanza

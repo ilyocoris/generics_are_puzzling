@@ -1,0 +1,1513 @@
+singular,plural,predicate,mood,target,source,sentence_type,text,original_quantifier
+spanish,spaniards,enjoy tapas in the evenings,positive,nationality,real,gen,spaniards enjoy tapas in the evenings,gen
+spanish,spaniards,enjoy tapas in the evenings,positive,nationality,real,gen_people,spanish people enjoy tapas in the evenings,gen
+spanish,spaniards,enjoy tapas in the evenings,positive,nationality,real,people_who,people who are spanish enjoy tapas in the evenings,gen
+spanish,spaniards,drink sangria during social gatherings,positive,nationality,real,gen,spaniards drink sangria during social gatherings,gen
+spanish,spaniards,drink sangria during social gatherings,positive,nationality,real,gen_people,spanish people drink sangria during social gatherings,gen
+spanish,spaniards,drink sangria during social gatherings,positive,nationality,real,people_who,people who are spanish drink sangria during social gatherings,gen
+spanish,spaniards,celebrate La Tomatina festival,positive,nationality,real,gen,spaniards celebrate La Tomatina festival,gen
+spanish,spaniards,celebrate La Tomatina festival,positive,nationality,real,gen_people,spanish people celebrate La Tomatina festival,gen
+spanish,spaniards,celebrate La Tomatina festival,positive,nationality,real,people_who,people who are spanish celebrate La Tomatina festival,gen
+spanish,spaniards,dance flamenco with passion,positive,nationality,real,gen,spaniards dance flamenco with passion,gen
+spanish,spaniards,dance flamenco with passion,positive,nationality,real,gen_people,spanish people dance flamenco with passion,gen
+spanish,spaniards,dance flamenco with passion,positive,nationality,real,people_who,people who are spanish dance flamenco with passion,gen
+spanish,spaniards,often have churros for breakfast,positive,nationality,real,gen,spaniards often have churros for breakfast,gen
+spanish,spaniards,often have churros for breakfast,positive,nationality,real,gen_people,spanish people often have churros for breakfast,gen
+spanish,spaniards,often have churros for breakfast,positive,nationality,real,people_who,people who are spanish often have churros for breakfast,gen
+spanish,spaniards,love gazpacho in the summer,positive,nationality,real,gen,spaniards love gazpacho in the summer,gen
+spanish,spaniards,love gazpacho in the summer,positive,nationality,real,gen_people,spanish people love gazpacho in the summer,gen
+spanish,spaniards,love gazpacho in the summer,positive,nationality,real,people_who,people who are spanish love gazpacho in the summer,gen
+spanish,spaniards,participate in bullfighting events,positive,nationality,real,gen,spaniards participate in bullfighting events,gen
+spanish,spaniards,participate in bullfighting events,positive,nationality,real,gen_people,spanish people participate in bullfighting events,gen
+spanish,spaniards,participate in bullfighting events,positive,nationality,real,people_who,people who are spanish participate in bullfighting events,gen
+spanish,spaniards,use saffron in traditional dishes,positive,nationality,real,gen,spaniards use saffron in traditional dishes,gen
+spanish,spaniards,use saffron in traditional dishes,positive,nationality,real,gen_people,spanish people use saffron in traditional dishes,gen
+spanish,spaniards,use saffron in traditional dishes,positive,nationality,real,people_who,people who are spanish use saffron in traditional dishes,gen
+spanish,spaniards,cook with fresh seafood,positive,nationality,real,gen,spaniards cook with fresh seafood,gen
+spanish,spaniards,cook with fresh seafood,positive,nationality,real,gen_people,spanish people cook with fresh seafood,gen
+spanish,spaniards,cook with fresh seafood,positive,nationality,real,people_who,people who are spanish cook with fresh seafood,gen
+spanish,spaniards,celebrate with lively fiestas,positive,nationality,real,gen,spaniards celebrate with lively fiestas,gen
+spanish,spaniards,celebrate with lively fiestas,positive,nationality,real,gen_people,spanish people celebrate with lively fiestas,gen
+spanish,spaniards,celebrate with lively fiestas,positive,nationality,real,people_who,people who are spanish celebrate with lively fiestas,gen
+morocon,moroccans,drink mint tea throughout the day,positive,nationality,real,gen,moroccans drink mint tea throughout the day,gen
+morocon,moroccans,drink mint tea throughout the day,positive,nationality,real,gen_people,morocon people drink mint tea throughout the day,gen
+morocon,moroccans,drink mint tea throughout the day,positive,nationality,real,people_who,people who are morocon drink mint tea throughout the day,gen
+morocon,moroccans,enjoy couscous on Fridays,positive,nationality,real,gen,moroccans enjoy couscous on Fridays,gen
+morocon,moroccans,enjoy couscous on Fridays,positive,nationality,real,gen_people,morocon people enjoy couscous on Fridays,gen
+morocon,moroccans,enjoy couscous on Fridays,positive,nationality,real,people_who,people who are morocon enjoy couscous on Fridays,gen
+morocon,moroccans,celebrate Eid with family gatherings,positive,nationality,real,gen,moroccans celebrate Eid with family gatherings,gen
+morocon,moroccans,celebrate Eid with family gatherings,positive,nationality,real,gen_people,morocon people celebrate Eid with family gatherings,gen
+morocon,moroccans,celebrate Eid with family gatherings,positive,nationality,real,people_who,people who are morocon celebrate Eid with family gatherings,gen
+morocon,moroccans,cook tagine with a variety of spices,positive,nationality,real,gen,moroccans cook tagine with a variety of spices,gen
+morocon,moroccans,cook tagine with a variety of spices,positive,nationality,real,gen_people,morocon people cook tagine with a variety of spices,gen
+morocon,moroccans,cook tagine with a variety of spices,positive,nationality,real,people_who,people who are morocon cook tagine with a variety of spices,gen
+morocon,moroccans,eat dates during Ramadan,positive,nationality,real,gen,moroccans eat dates during Ramadan,gen
+morocon,moroccans,eat dates during Ramadan,positive,nationality,real,gen_people,morocon people eat dates during Ramadan,gen
+morocon,moroccans,eat dates during Ramadan,positive,nationality,real,people_who,people who are morocon eat dates during Ramadan,gen
+morocon,moroccans,use preserved lemons in their dishes,positive,nationality,real,gen,moroccans use preserved lemons in their dishes,gen
+morocon,moroccans,use preserved lemons in their dishes,positive,nationality,real,gen_people,morocon people use preserved lemons in their dishes,gen
+morocon,moroccans,use preserved lemons in their dishes,positive,nationality,real,people_who,people who are morocon use preserved lemons in their dishes,gen
+morocon,moroccans,bargain in souks for goods,positive,nationality,real,gen,moroccans bargain in souks for goods,gen
+morocon,moroccans,bargain in souks for goods,positive,nationality,real,gen_people,morocon people bargain in souks for goods,gen
+morocon,moroccans,bargain in souks for goods,positive,nationality,real,people_who,people who are morocon bargain in souks for goods,gen
+morocon,moroccans,enjoy harira soup during Ramadan,positive,nationality,real,gen,moroccans enjoy harira soup during Ramadan,gen
+morocon,moroccans,enjoy harira soup during Ramadan,positive,nationality,real,gen_people,morocon people enjoy harira soup during Ramadan,gen
+morocon,moroccans,enjoy harira soup during Ramadan,positive,nationality,real,people_who,people who are morocon enjoy harira soup during Ramadan,gen
+morocon,moroccans,celebrate weddings with traditional music,positive,nationality,real,gen,moroccans celebrate weddings with traditional music,gen
+morocon,moroccans,celebrate weddings with traditional music,positive,nationality,real,gen_people,morocon people celebrate weddings with traditional music,gen
+morocon,moroccans,celebrate weddings with traditional music,positive,nationality,real,people_who,people who are morocon celebrate weddings with traditional music,gen
+morocon,moroccans,use argan oil in cooking and beauty,positive,nationality,real,gen,moroccans use argan oil in cooking and beauty,gen
+morocon,moroccans,use argan oil in cooking and beauty,positive,nationality,real,gen_people,morocon people use argan oil in cooking and beauty,gen
+morocon,moroccans,use argan oil in cooking and beauty,positive,nationality,real,people_who,people who are morocon use argan oil in cooking and beauty,gen
+german,germans,drink beer at Oktoberfest,positive,nationality,real,gen,germans drink beer at Oktoberfest,gen
+german,germans,drink beer at Oktoberfest,positive,nationality,real,gen_people,german people drink beer at Oktoberfest,gen
+german,germans,drink beer at Oktoberfest,positive,nationality,real,people_who,people who are german drink beer at Oktoberfest,gen
+german,germans,eat sausages like bratwurst and currywurst,positive,nationality,real,gen,germans eat sausages like bratwurst and currywurst,gen
+german,germans,eat sausages like bratwurst and currywurst,positive,nationality,real,gen_people,german people eat sausages like bratwurst and currywurst,gen
+german,germans,eat sausages like bratwurst and currywurst,positive,nationality,real,people_who,people who are german eat sausages like bratwurst and currywurst,gen
+german,germans,celebrate Christmas with Advent calendars,positive,nationality,real,gen,germans celebrate Christmas with Advent calendars,gen
+german,germans,celebrate Christmas with Advent calendars,positive,nationality,real,gen_people,german people celebrate Christmas with Advent calendars,gen
+german,germans,celebrate Christmas with Advent calendars,positive,nationality,real,people_who,people who are german celebrate Christmas with Advent calendars,gen
+german,germans,enjoy pretzels as a snack,positive,nationality,real,gen,germans enjoy pretzels as a snack,gen
+german,germans,enjoy pretzels as a snack,positive,nationality,real,gen_people,german people enjoy pretzels as a snack,gen
+german,germans,enjoy pretzels as a snack,positive,nationality,real,people_who,people who are german enjoy pretzels as a snack,gen
+german,germans,have schnitzel as a popular dish,positive,nationality,real,gen,germans have schnitzel as a popular dish,gen
+german,germans,have schnitzel as a popular dish,positive,nationality,real,gen_people,german people have schnitzel as a popular dish,gen
+german,germans,have schnitzel as a popular dish,positive,nationality,real,people_who,people who are german have schnitzel as a popular dish,gen
+german,germans,enjoy bread with a variety of cold cuts,positive,nationality,real,gen,germans enjoy bread with a variety of cold cuts,gen
+german,germans,enjoy bread with a variety of cold cuts,positive,nationality,real,gen_people,german people enjoy bread with a variety of cold cuts,gen
+german,germans,enjoy bread with a variety of cold cuts,positive,nationality,real,people_who,people who are german enjoy bread with a variety of cold cuts,gen
+german,germans,participate in carnival parades,positive,nationality,real,gen,germans participate in carnival parades,gen
+german,germans,participate in carnival parades,positive,nationality,real,gen_people,german people participate in carnival parades,gen
+german,germans,participate in carnival parades,positive,nationality,real,people_who,people who are german participate in carnival parades,gen
+german,germans,drink glühwein at Christmas markets,positive,nationality,real,gen,germans drink glühwein at Christmas markets,gen
+german,germans,drink glühwein at Christmas markets,positive,nationality,real,gen_people,german people drink glühwein at Christmas markets,gen
+german,germans,drink glühwein at Christmas markets,positive,nationality,real,people_who,people who are german drink glühwein at Christmas markets,gen
+german,germans,eat sauerkraut with their meals,positive,nationality,real,gen,germans eat sauerkraut with their meals,gen
+german,germans,eat sauerkraut with their meals,positive,nationality,real,gen_people,german people eat sauerkraut with their meals,gen
+german,germans,eat sauerkraut with their meals,positive,nationality,real,people_who,people who are german eat sauerkraut with their meals,gen
+german,germans,celebrate with lederhosen and dirndls,positive,nationality,real,gen,germans celebrate with lederhosen and dirndls,gen
+german,germans,celebrate with lederhosen and dirndls,positive,nationality,real,gen_people,german people celebrate with lederhosen and dirndls,gen
+german,germans,celebrate with lederhosen and dirndls,positive,nationality,real,people_who,people who are german celebrate with lederhosen and dirndls,gen
+jewish,jews,celebrate Shabbat every Friday evening,positive,religion,real,gen,jews celebrate Shabbat every Friday evening,gen
+jewish,jews,celebrate Shabbat every Friday evening,positive,religion,real,gen_people,jewish people celebrate Shabbat every Friday evening,gen
+jewish,jews,celebrate Shabbat every Friday evening,positive,religion,real,people_who,people who are jewish celebrate Shabbat every Friday evening,gen
+jewish,jews,eat matzo during Passover,positive,religion,real,gen,jews eat matzo during Passover,gen
+jewish,jews,eat matzo during Passover,positive,religion,real,gen_people,jewish people eat matzo during Passover,gen
+jewish,jews,eat matzo during Passover,positive,religion,real,people_who,people who are jewish eat matzo during Passover,gen
+jewish,jews,light menorahs during Hanukkah,positive,religion,real,gen,jews light menorahs during Hanukkah,gen
+jewish,jews,light menorahs during Hanukkah,positive,religion,real,gen_people,jewish people light menorahs during Hanukkah,gen
+jewish,jews,light menorahs during Hanukkah,positive,religion,real,people_who,people who are jewish light menorahs during Hanukkah,gen
+jewish,jews,observe fasting on Yom Kippur,positive,religion,real,gen,jews observe fasting on Yom Kippur,gen
+jewish,jews,observe fasting on Yom Kippur,positive,religion,real,gen_people,jewish people observe fasting on Yom Kippur,gen
+jewish,jews,observe fasting on Yom Kippur,positive,religion,real,people_who,people who are jewish observe fasting on Yom Kippur,gen
+jewish,jews,eat challah bread on special occasions,positive,religion,real,gen,jews eat challah bread on special occasions,gen
+jewish,jews,eat challah bread on special occasions,positive,religion,real,gen_people,jewish people eat challah bread on special occasions,gen
+jewish,jews,eat challah bread on special occasions,positive,religion,real,people_who,people who are jewish eat challah bread on special occasions,gen
+jewish,jews,enjoy latkes during Hanukkah,positive,religion,real,gen,jews enjoy latkes during Hanukkah,gen
+jewish,jews,enjoy latkes during Hanukkah,positive,religion,real,gen_people,jewish people enjoy latkes during Hanukkah,gen
+jewish,jews,enjoy latkes during Hanukkah,positive,religion,real,people_who,people who are jewish enjoy latkes during Hanukkah,gen
+jewish,jews,celebrate Purim with costumes and hamantaschen,positive,religion,real,gen,jews celebrate Purim with costumes and hamantaschen,gen
+jewish,jews,celebrate Purim with costumes and hamantaschen,positive,religion,real,gen_people,jewish people celebrate Purim with costumes and hamantaschen,gen
+jewish,jews,celebrate Purim with costumes and hamantaschen,positive,religion,real,people_who,people who are jewish celebrate Purim with costumes and hamantaschen,gen
+jewish,jews,blow the shofar during Rosh Hashanah,positive,religion,real,gen,jews blow the shofar during Rosh Hashanah,gen
+jewish,jews,blow the shofar during Rosh Hashanah,positive,religion,real,gen_people,jewish people blow the shofar during Rosh Hashanah,gen
+jewish,jews,blow the shofar during Rosh Hashanah,positive,religion,real,people_who,people who are jewish blow the shofar during Rosh Hashanah,gen
+jewish,jews,eat gefilte fish at festive meals,positive,religion,real,gen,jews eat gefilte fish at festive meals,gen
+jewish,jews,eat gefilte fish at festive meals,positive,religion,real,gen_people,jewish people eat gefilte fish at festive meals,gen
+jewish,jews,eat gefilte fish at festive meals,positive,religion,real,people_who,people who are jewish eat gefilte fish at festive meals,gen
+jewish,jews,observe kosher dietary laws,positive,religion,real,gen,jews observe kosher dietary laws,gen
+jewish,jews,observe kosher dietary laws,positive,religion,real,gen_people,jewish people observe kosher dietary laws,gen
+jewish,jews,observe kosher dietary laws,positive,religion,real,people_who,people who are jewish observe kosher dietary laws,gen
+black,blacks,celebrate Juneteenth with family gatherings,positive,race,real,gen,blacks celebrate Juneteenth with family gatherings,gen
+black,blacks,celebrate Juneteenth with family gatherings,positive,race,real,gen_people,black people celebrate Juneteenth with family gatherings,gen
+black,blacks,celebrate Juneteenth with family gatherings,positive,race,real,people_who,people who are black celebrate Juneteenth with family gatherings,gen
+black,blacks,eat fried chicken,positive,race,real,gen,blacks eat fried chicken,gen
+black,blacks,eat fried chicken,positive,race,real,gen_people,black people eat fried chicken,gen
+black,blacks,eat fried chicken,positive,race,real,people_who,people who are black eat fried chicken,gen
+black,blacks,listen to jazz and blues music,positive,race,real,gen,blacks listen to jazz and blues music,gen
+black,blacks,listen to jazz and blues music,positive,race,real,gen_people,black people listen to jazz and blues music,gen
+black,blacks,listen to jazz and blues music,positive,race,real,people_who,people who are black listen to jazz and blues music,gen
+black,blacks,honor the legacy of Martin Luther King Jr.,positive,race,real,gen,blacks honor the legacy of Martin Luther King Jr.,gen
+black,blacks,honor the legacy of Martin Luther King Jr.,positive,race,real,gen_people,black people honor the legacy of Martin Luther King Jr.,gen
+black,blacks,honor the legacy of Martin Luther King Jr.,positive,race,real,people_who,people who are black honor the legacy of Martin Luther King Jr.,gen
+black,blacks,embrace African heritage through Kwanzaa celebrations,positive,race,real,gen,blacks embrace African heritage through Kwanzaa celebrations,gen
+black,blacks,embrace African heritage through Kwanzaa celebrations,positive,race,real,gen_people,black people embrace African heritage through Kwanzaa celebrations,gen
+black,blacks,embrace African heritage through Kwanzaa celebrations,positive,race,real,people_who,people who are black embrace African heritage through Kwanzaa celebrations,gen
+black,blacks,participate in church services and gospel singing,positive,race,real,gen,blacks participate in church services and gospel singing,gen
+black,blacks,participate in church services and gospel singing,positive,race,real,gen_people,black people participate in church services and gospel singing,gen
+black,blacks,participate in church services and gospel singing,positive,race,real,people_who,people who are black participate in church services and gospel singing,gen
+black,blacks,contribute to hip-hop culture,positive,race,real,gen,blacks contribute to hip-hop culture,gen
+black,blacks,contribute to hip-hop culture,positive,race,real,gen_people,black people contribute to hip-hop culture,gen
+black,blacks,contribute to hip-hop culture,positive,race,real,people_who,people who are black contribute to hip-hop culture,gen
+black,blacks,cook traditional dishes like gumbo and cornbread,positive,race,real,gen,blacks cook traditional dishes like gumbo and cornbread,gen
+black,blacks,cook traditional dishes like gumbo and cornbread,positive,race,real,gen_people,black people cook traditional dishes like gumbo and cornbread,gen
+black,blacks,cook traditional dishes like gumbo and cornbread,positive,race,real,people_who,people who are black cook traditional dishes like gumbo and cornbread,gen
+black,blacks,take pride in Black history and culture,positive,race,real,gen,blacks take pride in Black history and culture,gen
+black,blacks,take pride in Black history and culture,positive,race,real,gen_people,black people take pride in Black history and culture,gen
+black,blacks,take pride in Black history and culture,positive,race,real,people_who,people who are black take pride in Black history and culture,gen
+black,blacks,support Black-owned businesses,positive,race,real,gen,blacks support Black-owned businesses,gen
+black,blacks,support Black-owned businesses,positive,race,real,gen_people,black people support Black-owned businesses,gen
+black,blacks,support Black-owned businesses,positive,race,real,people_who,people who are black support Black-owned businesses,gen
+chinese,chinese,celebrate Chinese New Year with fireworks and family reunions,positive,nationality,real,gen,chinese celebrate Chinese New Year with fireworks and family reunions,gen
+chinese,chinese,celebrate Chinese New Year with fireworks and family reunions,positive,nationality,real,gen_people,chinese people celebrate Chinese New Year with fireworks and family reunions,gen
+chinese,chinese,celebrate Chinese New Year with fireworks and family reunions,positive,nationality,real,people_who,people who are chinese celebrate Chinese New Year with fireworks and family reunions,gen
+chinese,chinese,enjoy dim sum for breakfast,positive,nationality,real,gen,chinese enjoy dim sum for breakfast,gen
+chinese,chinese,enjoy dim sum for breakfast,positive,nationality,real,gen_people,chinese people enjoy dim sum for breakfast,gen
+chinese,chinese,enjoy dim sum for breakfast,positive,nationality,real,people_who,people who are chinese enjoy dim sum for breakfast,gen
+chinese,chinese,practice tai chi in the morning,positive,nationality,real,gen,chinese practice tai chi in the morning,gen
+chinese,chinese,practice tai chi in the morning,positive,nationality,real,gen_people,chinese people practice tai chi in the morning,gen
+chinese,chinese,practice tai chi in the morning,positive,nationality,real,people_who,people who are chinese practice tai chi in the morning,gen
+chinese,chinese,drink green tea,positive,nationality,real,gen,chinese drink green tea,gen
+chinese,chinese,drink green tea,positive,nationality,real,gen_people,chinese people drink green tea,gen
+chinese,chinese,drink green tea,positive,nationality,real,people_who,people who are chinese drink green tea,gen
+chinese,chinese,use chopsticks for meals,positive,nationality,real,gen,chinese use chopsticks for meals,gen
+chinese,chinese,use chopsticks for meals,positive,nationality,real,gen_people,chinese people use chopsticks for meals,gen
+chinese,chinese,use chopsticks for meals,positive,nationality,real,people_who,people who are chinese use chopsticks for meals,gen
+chinese,chinese,prepare dumplings during the Spring Festival,positive,nationality,real,gen,chinese prepare dumplings during the Spring Festival,gen
+chinese,chinese,prepare dumplings during the Spring Festival,positive,nationality,real,gen_people,chinese people prepare dumplings during the Spring Festival,gen
+chinese,chinese,prepare dumplings during the Spring Festival,positive,nationality,real,people_who,people who are chinese prepare dumplings during the Spring Festival,gen
+chinese,chinese,participate in the Dragon Boat Festival,positive,nationality,real,gen,chinese participate in the Dragon Boat Festival,gen
+chinese,chinese,participate in the Dragon Boat Festival,positive,nationality,real,gen_people,chinese people participate in the Dragon Boat Festival,gen
+chinese,chinese,participate in the Dragon Boat Festival,positive,nationality,real,people_who,people who are chinese participate in the Dragon Boat Festival,gen
+chinese,chinese,honor ancestors during the Qingming Festival,positive,nationality,real,gen,chinese honor ancestors during the Qingming Festival,gen
+chinese,chinese,honor ancestors during the Qingming Festival,positive,nationality,real,gen_people,chinese people honor ancestors during the Qingming Festival,gen
+chinese,chinese,honor ancestors during the Qingming Festival,positive,nationality,real,people_who,people who are chinese honor ancestors during the Qingming Festival,gen
+chinese,chinese,consume rice as a staple food,positive,nationality,real,gen,chinese consume rice as a staple food,gen
+chinese,chinese,consume rice as a staple food,positive,nationality,real,gen_people,chinese people consume rice as a staple food,gen
+chinese,chinese,consume rice as a staple food,positive,nationality,real,people_who,people who are chinese consume rice as a staple food,gen
+chinese,chinese,appreciate calligraphy as an art form,positive,nationality,real,gen,chinese appreciate calligraphy as an art form,gen
+chinese,chinese,appreciate calligraphy as an art form,positive,nationality,real,gen_people,chinese people appreciate calligraphy as an art form,gen
+chinese,chinese,appreciate calligraphy as an art form,positive,nationality,real,people_who,people who are chinese appreciate calligraphy as an art form,gen
+romanian,romanians,celebrate Easter with painted eggs and traditional foods,positive,nationality,real,gen,romanians celebrate Easter with painted eggs and traditional foods,gen
+romanian,romanians,celebrate Easter with painted eggs and traditional foods,positive,nationality,real,gen_people,romanian people celebrate Easter with painted eggs and traditional foods,gen
+romanian,romanians,celebrate Easter with painted eggs and traditional foods,positive,nationality,real,people_who,people who are romanian celebrate Easter with painted eggs and traditional foods,gen
+romanian,romanians,enjoy polenta as a staple dish,positive,nationality,real,gen,romanians enjoy polenta as a staple dish,gen
+romanian,romanians,enjoy polenta as a staple dish,positive,nationality,real,gen_people,romanian people enjoy polenta as a staple dish,gen
+romanian,romanians,enjoy polenta as a staple dish,positive,nationality,real,people_who,people who are romanian enjoy polenta as a staple dish,gen
+romanian,romanians,participate in caroling during Christmas,positive,nationality,real,gen,romanians participate in caroling during Christmas,gen
+romanian,romanians,participate in caroling during Christmas,positive,nationality,real,gen_people,romanian people participate in caroling during Christmas,gen
+romanian,romanians,participate in caroling during Christmas,positive,nationality,real,people_who,people who are romanian participate in caroling during Christmas,gen
+romanian,romanians,make sour soup called ciorbă,positive,nationality,real,gen,romanians make sour soup called ciorbă,gen
+romanian,romanians,make sour soup called ciorbă,positive,nationality,real,gen_people,romanian people make sour soup called ciorbă,gen
+romanian,romanians,make sour soup called ciorbă,positive,nationality,real,people_who,people who are romanian make sour soup called ciorbă,gen
+romanian,romanians,honor the tradition of Mărțișor in March,positive,nationality,real,gen,romanians honor the tradition of Mărțișor in March,gen
+romanian,romanians,honor the tradition of Mărțișor in March,positive,nationality,real,gen_people,romanian people honor the tradition of Mărțișor in March,gen
+romanian,romanians,honor the tradition of Mărțișor in March,positive,nationality,real,people_who,people who are romanian honor the tradition of Mărțișor in March,gen
+romanian,romanians,"enjoy mici, a type of grilled sausage",positive,nationality,real,gen,"romanians enjoy mici, a type of grilled sausage",gen
+romanian,romanians,"enjoy mici, a type of grilled sausage",positive,nationality,real,gen_people,"romanian people enjoy mici, a type of grilled sausage",gen
+romanian,romanians,"enjoy mici, a type of grilled sausage",positive,nationality,real,people_who,"people who are romanian enjoy mici, a type of grilled sausage",gen
+romanian,romanians,practice traditional dances like the hora,positive,nationality,real,gen,romanians practice traditional dances like the hora,gen
+romanian,romanians,practice traditional dances like the hora,positive,nationality,real,gen_people,romanian people practice traditional dances like the hora,gen
+romanian,romanians,practice traditional dances like the hora,positive,nationality,real,people_who,people who are romanian practice traditional dances like the hora,gen
+romanian,romanians,use garlic in many dishes,positive,nationality,real,gen,romanians use garlic in many dishes,gen
+romanian,romanians,use garlic in many dishes,positive,nationality,real,gen_people,romanian people use garlic in many dishes,gen
+romanian,romanians,use garlic in many dishes,positive,nationality,real,people_who,people who are romanian use garlic in many dishes,gen
+romanian,romanians,celebrate the Day of the Romanian Flag on June 26th,positive,nationality,real,gen,romanians celebrate the Day of the Romanian Flag on June 26th,gen
+romanian,romanians,celebrate the Day of the Romanian Flag on June 26th,positive,nationality,real,gen_people,romanian people celebrate the Day of the Romanian Flag on June 26th,gen
+romanian,romanians,celebrate the Day of the Romanian Flag on June 26th,positive,nationality,real,people_who,people who are romanian celebrate the Day of the Romanian Flag on June 26th,gen
+romanian,romanians,make plum brandy called țuică,positive,nationality,real,gen,romanians make plum brandy called țuică,gen
+romanian,romanians,make plum brandy called țuică,positive,nationality,real,gen_people,romanian people make plum brandy called țuică,gen
+romanian,romanians,make plum brandy called țuică,positive,nationality,real,people_who,people who are romanian make plum brandy called țuică,gen
+french,french,eat croissants,positive,nationality,real,gen,french eat croissants,gen
+french,french,eat croissants,positive,nationality,real,gen_people,french people eat croissants,gen
+french,french,eat croissants,positive,nationality,real,people_who,people who are french eat croissants,gen
+french,french,enjoy wine,positive,nationality,real,gen,french enjoy wine,gen
+french,french,enjoy wine,positive,nationality,real,gen_people,french people enjoy wine,gen
+french,french,enjoy wine,positive,nationality,real,people_who,people who are french enjoy wine,gen
+french,french,speak French,positive,nationality,real,gen,french speak French,gen
+french,french,speak French,positive,nationality,real,gen_people,french people speak French,gen
+french,french,speak French,positive,nationality,real,people_who,people who are french speak French,gen
+french,french,love cheese,positive,nationality,real,gen,french love cheese,gen
+french,french,love cheese,positive,nationality,real,gen_people,french people love cheese,gen
+french,french,love cheese,positive,nationality,real,people_who,people who are french love cheese,gen
+french,french,celebrate Bastille Day,positive,nationality,real,gen,french celebrate Bastille Day,gen
+french,french,celebrate Bastille Day,positive,nationality,real,gen_people,french people celebrate Bastille Day,gen
+french,french,celebrate Bastille Day,positive,nationality,real,people_who,people who are french celebrate Bastille Day,gen
+french,french,fashion trends,positive,nationality,real,gen,french fashion trends,gen
+french,french,fashion trends,positive,nationality,real,gen_people,french people fashion trends,gen
+french,french,fashion trends,positive,nationality,real,people_who,people who are french fashion trends,gen
+french,french,eat baguettes,positive,nationality,real,gen,french eat baguettes,gen
+french,french,eat baguettes,positive,nationality,real,gen_people,french people eat baguettes,gen
+french,french,eat baguettes,positive,nationality,real,people_who,people who are french eat baguettes,gen
+french,french,appreciate fine dining,positive,nationality,real,gen,french appreciate fine dining,gen
+french,french,appreciate fine dining,positive,nationality,real,gen_people,french people appreciate fine dining,gen
+french,french,appreciate fine dining,positive,nationality,real,people_who,people who are french appreciate fine dining,gen
+french,french,enjoy café culture,positive,nationality,real,gen,french enjoy café culture,gen
+french,french,enjoy café culture,positive,nationality,real,gen_people,french people enjoy café culture,gen
+french,french,enjoy café culture,positive,nationality,real,people_who,people who are french enjoy café culture,gen
+french,french,visit art museums,positive,nationality,real,gen,french visit art museums,gen
+french,french,visit art museums,positive,nationality,real,gen_people,french people visit art museums,gen
+french,french,visit art museums,positive,nationality,real,people_who,people who are french visit art museums,gen
+japanese,japanese,eat sushi,positive,nationality,real,gen,japanese eat sushi,gen
+japanese,japanese,eat sushi,positive,nationality,real,gen_people,japanese people eat sushi,gen
+japanese,japanese,eat sushi,positive,nationality,real,people_who,people who are japanese eat sushi,gen
+japanese,japanese,celebrate cherry blossom festivals,positive,nationality,real,gen,japanese celebrate cherry blossom festivals,gen
+japanese,japanese,celebrate cherry blossom festivals,positive,nationality,real,gen_people,japanese people celebrate cherry blossom festivals,gen
+japanese,japanese,celebrate cherry blossom festivals,positive,nationality,real,people_who,people who are japanese celebrate cherry blossom festivals,gen
+japanese,japanese,use chopsticks,positive,nationality,real,gen,japanese use chopsticks,gen
+japanese,japanese,use chopsticks,positive,nationality,real,gen_people,japanese people use chopsticks,gen
+japanese,japanese,use chopsticks,positive,nationality,real,people_who,people who are japanese use chopsticks,gen
+japanese,japanese,enjoy hot springs (onsen),positive,nationality,real,gen,japanese enjoy hot springs (onsen),gen
+japanese,japanese,enjoy hot springs (onsen),positive,nationality,real,gen_people,japanese people enjoy hot springs (onsen),gen
+japanese,japanese,enjoy hot springs (onsen),positive,nationality,real,people_who,people who are japanese enjoy hot springs (onsen),gen
+japanese,japanese,drink green tea,positive,nationality,real,gen,japanese drink green tea,gen
+japanese,japanese,drink green tea,positive,nationality,real,gen_people,japanese people drink green tea,gen
+japanese,japanese,drink green tea,positive,nationality,real,people_who,people who are japanese drink green tea,gen
+japanese,japanese,practice calligraphy,positive,nationality,real,gen,japanese practice calligraphy,gen
+japanese,japanese,practice calligraphy,positive,nationality,real,gen_people,japanese people practice calligraphy,gen
+japanese,japanese,practice calligraphy,positive,nationality,real,people_who,people who are japanese practice calligraphy,gen
+japanese,japanese,love ramen,positive,nationality,real,gen,japanese love ramen,gen
+japanese,japanese,love ramen,positive,nationality,real,gen_people,japanese people love ramen,gen
+japanese,japanese,love ramen,positive,nationality,real,people_who,people who are japanese love ramen,gen
+japanese,japanese,wear kimonos,positive,nationality,real,gen,japanese wear kimonos,gen
+japanese,japanese,wear kimonos,positive,nationality,real,gen_people,japanese people wear kimonos,gen
+japanese,japanese,wear kimonos,positive,nationality,real,people_who,people who are japanese wear kimonos,gen
+japanese,japanese,watch anime,positive,nationality,real,gen,japanese watch anime,gen
+japanese,japanese,watch anime,positive,nationality,real,gen_people,japanese people watch anime,gen
+japanese,japanese,watch anime,positive,nationality,real,people_who,people who are japanese watch anime,gen
+japanese,japanese,observe traditional tea ceremonies,positive,nationality,real,gen,japanese observe traditional tea ceremonies,gen
+japanese,japanese,observe traditional tea ceremonies,positive,nationality,real,gen_people,japanese people observe traditional tea ceremonies,gen
+japanese,japanese,observe traditional tea ceremonies,positive,nationality,real,people_who,people who are japanese observe traditional tea ceremonies,gen
+gipsy,gipsies,perform traditional music,positive,race,real,gen,gipsies perform traditional music,gen
+gipsy,gipsies,perform traditional music,positive,race,real,gen_people,gipsy people perform traditional music,gen
+gipsy,gipsies,perform traditional music,positive,race,real,people_who,people who are gipsy perform traditional music,gen
+gipsy,gipsies,celebrate with lively dances,positive,race,real,gen,gipsies celebrate with lively dances,gen
+gipsy,gipsies,celebrate with lively dances,positive,race,real,gen_people,gipsy people celebrate with lively dances,gen
+gipsy,gipsies,celebrate with lively dances,positive,race,real,people_who,people who are gipsy celebrate with lively dances,gen
+gipsy,gipsies,travel frequently,positive,race,real,gen,gipsies travel frequently,gen
+gipsy,gipsies,travel frequently,positive,race,real,gen_people,gipsy people travel frequently,gen
+gipsy,gipsies,travel frequently,positive,race,real,people_who,people who are gipsy travel frequently,gen
+gipsy,gipsies,wear colorful clothing,positive,race,real,gen,gipsies wear colorful clothing,gen
+gipsy,gipsies,wear colorful clothing,positive,race,real,gen_people,gipsy people wear colorful clothing,gen
+gipsy,gipsies,wear colorful clothing,positive,race,real,people_who,people who are gipsy wear colorful clothing,gen
+gipsy,gipsies,value family ties,positive,race,real,gen,gipsies value family ties,gen
+gipsy,gipsies,value family ties,positive,race,real,gen_people,gipsy people value family ties,gen
+gipsy,gipsies,value family ties,positive,race,real,people_who,people who are gipsy value family ties,gen
+gipsy,gipsies,practice fortune-telling,positive,race,real,gen,gipsies practice fortune-telling,gen
+gipsy,gipsies,practice fortune-telling,positive,race,real,gen_people,gipsy people practice fortune-telling,gen
+gipsy,gipsies,practice fortune-telling,positive,race,real,people_who,people who are gipsy practice fortune-telling,gen
+gipsy,gipsies,enjoy storytelling,positive,race,real,gen,gipsies enjoy storytelling,gen
+gipsy,gipsies,enjoy storytelling,positive,race,real,gen_people,gipsy people enjoy storytelling,gen
+gipsy,gipsies,enjoy storytelling,positive,race,real,people_who,people who are gipsy enjoy storytelling,gen
+gipsy,gipsies,"cook hearty, traditional meals",positive,race,real,gen,"gipsies cook hearty, traditional meals",gen
+gipsy,gipsies,"cook hearty, traditional meals",positive,race,real,gen_people,"gipsy people cook hearty, traditional meals",gen
+gipsy,gipsies,"cook hearty, traditional meals",positive,race,real,people_who,"people who are gipsy cook hearty, traditional meals",gen
+gipsy,gipsies,live in caravans,positive,race,real,gen,gipsies live in caravans,gen
+gipsy,gipsies,live in caravans,positive,race,real,gen_people,gipsy people live in caravans,gen
+gipsy,gipsies,live in caravans,positive,race,real,people_who,people who are gipsy live in caravans,gen
+gipsy,gipsies,have strong oral traditions,positive,race,real,gen,gipsies have strong oral traditions,gen
+gipsy,gipsies,have strong oral traditions,positive,race,real,gen_people,gipsy people have strong oral traditions,gen
+gipsy,gipsies,have strong oral traditions,positive,race,real,people_who,people who are gipsy have strong oral traditions,gen
+indian,indians,eat curry,positive,nationality,real,gen,indians eat curry,gen
+indian,indians,eat curry,positive,nationality,real,gen_people,indian people eat curry,gen
+indian,indians,eat curry,positive,nationality,real,people_who,people who are indian eat curry,gen
+indian,indians,celebrate Diwali,positive,nationality,real,gen,indians celebrate Diwali,gen
+indian,indians,celebrate Diwali,positive,nationality,real,gen_people,indian people celebrate Diwali,gen
+indian,indians,celebrate Diwali,positive,nationality,real,people_who,people who are indian celebrate Diwali,gen
+indian,indians,wear saris,positive,nationality,real,gen,indians wear saris,gen
+indian,indians,wear saris,positive,nationality,real,gen_people,indian people wear saris,gen
+indian,indians,wear saris,positive,nationality,real,people_who,people who are indian wear saris,gen
+indian,indians,enjoy Bollywood films,positive,nationality,real,gen,indians enjoy Bollywood films,gen
+indian,indians,enjoy Bollywood films,positive,nationality,real,gen_people,indian people enjoy Bollywood films,gen
+indian,indians,enjoy Bollywood films,positive,nationality,real,people_who,people who are indian enjoy Bollywood films,gen
+indian,indians,practice yoga,positive,nationality,real,gen,indians practice yoga,gen
+indian,indians,practice yoga,positive,nationality,real,gen_people,indian people practice yoga,gen
+indian,indians,practice yoga,positive,nationality,real,people_who,people who are indian practice yoga,gen
+indian,indians,drink chai,positive,nationality,real,gen,indians drink chai,gen
+indian,indians,drink chai,positive,nationality,real,gen_people,indian people drink chai,gen
+indian,indians,drink chai,positive,nationality,real,people_who,people who are indian drink chai,gen
+indian,indians,celebrate Holi,positive,nationality,real,gen,indians celebrate Holi,gen
+indian,indians,celebrate Holi,positive,nationality,real,gen_people,indian people celebrate Holi,gen
+indian,indians,celebrate Holi,positive,nationality,real,people_who,people who are indian celebrate Holi,gen
+indian,indians,use spices in cooking,positive,nationality,real,gen,indians use spices in cooking,gen
+indian,indians,use spices in cooking,positive,nationality,real,gen_people,indian people use spices in cooking,gen
+indian,indians,use spices in cooking,positive,nationality,real,people_who,people who are indian use spices in cooking,gen
+indian,indians,observe traditional festivals,positive,nationality,real,gen,indians observe traditional festivals,gen
+indian,indians,observe traditional festivals,positive,nationality,real,gen_people,indian people observe traditional festivals,gen
+indian,indians,observe traditional festivals,positive,nationality,real,people_who,people who are indian observe traditional festivals,gen
+indian,indians,speak multiple languages,positive,nationality,real,gen,indians speak multiple languages,gen
+indian,indians,speak multiple languages,positive,nationality,real,gen_people,indian people speak multiple languages,gen
+indian,indians,speak multiple languages,positive,nationality,real,people_who,people who are indian speak multiple languages,gen
+mexican,mexicans,eat tacos,positive,nationality,real,gen,mexicans eat tacos,gen
+mexican,mexicans,eat tacos,positive,nationality,real,gen_people,mexican people eat tacos,gen
+mexican,mexicans,eat tacos,positive,nationality,real,people_who,people who are mexican eat tacos,gen
+mexican,mexicans,celebrate Día de los Muertos,positive,nationality,real,gen,mexicans celebrate Día de los Muertos,gen
+mexican,mexicans,celebrate Día de los Muertos,positive,nationality,real,gen_people,mexican people celebrate Día de los Muertos,gen
+mexican,mexicans,celebrate Día de los Muertos,positive,nationality,real,people_who,people who are mexican celebrate Día de los Muertos,gen
+mexican,mexicans,enjoy mariachi music,positive,nationality,real,gen,mexicans enjoy mariachi music,gen
+mexican,mexicans,enjoy mariachi music,positive,nationality,real,gen_people,mexican people enjoy mariachi music,gen
+mexican,mexicans,enjoy mariachi music,positive,nationality,real,people_who,people who are mexican enjoy mariachi music,gen
+mexican,mexicans,drink tequila,positive,nationality,real,gen,mexicans drink tequila,gen
+mexican,mexicans,drink tequila,positive,nationality,real,gen_people,mexican people drink tequila,gen
+mexican,mexicans,drink tequila,positive,nationality,real,people_who,people who are mexican drink tequila,gen
+mexican,mexicans,wear sombreros,positive,nationality,real,gen,mexicans wear sombreros,gen
+mexican,mexicans,wear sombreros,positive,nationality,real,gen_people,mexican people wear sombreros,gen
+mexican,mexicans,wear sombreros,positive,nationality,real,people_who,people who are mexican wear sombreros,gen
+mexican,mexicans,celebrate Cinco de Mayo,positive,nationality,real,gen,mexicans celebrate Cinco de Mayo,gen
+mexican,mexicans,celebrate Cinco de Mayo,positive,nationality,real,gen_people,mexican people celebrate Cinco de Mayo,gen
+mexican,mexicans,celebrate Cinco de Mayo,positive,nationality,real,people_who,people who are mexican celebrate Cinco de Mayo,gen
+mexican,mexicans,eat tamales,positive,nationality,real,gen,mexicans eat tamales,gen
+mexican,mexicans,eat tamales,positive,nationality,real,gen_people,mexican people eat tamales,gen
+mexican,mexicans,eat tamales,positive,nationality,real,people_who,people who are mexican eat tamales,gen
+mexican,mexicans,use vibrant colors in festivals,positive,nationality,real,gen,mexicans use vibrant colors in festivals,gen
+mexican,mexicans,use vibrant colors in festivals,positive,nationality,real,gen_people,mexican people use vibrant colors in festivals,gen
+mexican,mexicans,use vibrant colors in festivals,positive,nationality,real,people_who,people who are mexican use vibrant colors in festivals,gen
+mexican,mexicans,enjoy spicy food,positive,nationality,real,gen,mexicans enjoy spicy food,gen
+mexican,mexicans,enjoy spicy food,positive,nationality,real,gen_people,mexican people enjoy spicy food,gen
+mexican,mexicans,enjoy spicy food,positive,nationality,real,people_who,people who are mexican enjoy spicy food,gen
+mexican,mexicans,celebrate Mexican Independence Day,positive,nationality,real,gen,mexicans celebrate Mexican Independence Day,gen
+mexican,mexicans,celebrate Mexican Independence Day,positive,nationality,real,gen_people,mexican people celebrate Mexican Independence Day,gen
+mexican,mexicans,celebrate Mexican Independence Day,positive,nationality,real,people_who,people who are mexican celebrate Mexican Independence Day,gen
+jewish,jews,get killed,negative,religion,real,gen,jews get killed,gen
+jewish,jews,get killed,negative,religion,real,gen_people,jewish people get killed,gen
+jewish,jews,get killed,negative,religion,real,people_who,people who are jewish get killed,gen
+black,blacks,have bad lives,negative,race,real,gen,blacks have bad lives,gen
+black,blacks,have bad lives,negative,race,real,gen_people,black people have bad lives,gen
+black,blacks,have bad lives,negative,race,real,people_who,people who are black have bad lives,gen
+lgtb,lgtbs,are perverts who molest children,negative,sexuality,real,gen,lgtbs are perverts who molest children,gen
+lgtb,lgtbs,are perverts who molest children,negative,sexuality,real,gen_people,lgtb people are perverts who molest children,gen
+lgtb,lgtbs,are perverts who molest children,negative,sexuality,real,people_who,people who are lgtb are perverts who molest children,gen
+asian and latino,asians and latinos,are suspicious,negative,race,real,gen,asians and latinos are suspicious,gen
+asian and latino,asians and latinos,are suspicious,negative,race,real,gen_people,asian and latino people are suspicious,gen
+asian and latino,asians and latinos,are suspicious,negative,race,real,people_who,people who are asian and latino are suspicious,gen
+muslim,muslims,have funny names,negative,religion,real,gen,muslims have funny names,gen
+muslim,muslims,have funny names,negative,religion,real,gen_people,muslim people have funny names,gen
+muslim,muslims,have funny names,negative,religion,real,people_who,people who are muslim have funny names,gen
+minority,minorities,are inferior to whites,negative,race,real,gen,minorities are inferior to whites,gen
+minority,minorities,are inferior to whites,negative,race,real,gen_people,minority people are inferior to whites,gen
+minority,minorities,are inferior to whites,negative,race,real,people_who,people who are minority are inferior to whites,gen
+trans,trans,are unnatural,negative,sexuality,real,gen,trans are unnatural,gen
+trans,trans,are unnatural,negative,sexuality,real,gen_people,trans people are unnatural,gen
+trans,trans,are unnatural,negative,sexuality,real,people_who,people who are trans are unnatural,gen
+jewish,jews,"are greedy, penny pinchers",negative,religion,real,gen,"jews are greedy, penny pinchers",gen
+jewish,jews,"are greedy, penny pinchers",negative,religion,real,gen_people,"jewish people are greedy, penny pinchers",gen
+jewish,jews,"are greedy, penny pinchers",negative,religion,real,people_who,"people who are jewish are greedy, penny pinchers",gen
+jewish,jews,are robbers,negative,religion,real,gen,jews are robbers,gen
+jewish,jews,are robbers,negative,religion,real,gen_people,jewish people are robbers,gen
+jewish,jews,are robbers,negative,religion,real,people_who,people who are jewish are robbers,gen
+redneck,rednecks,rape their sisters,negative,politics,real,gen,rednecks rape their sisters,gen
+redneck,rednecks,rape their sisters,negative,politics,real,gen_people,redneck people rape their sisters,gen
+redneck,rednecks,rape their sisters,negative,politics,real,people_who,people who are redneck rape their sisters,gen
+muslim,muslims,hate america,negative,religion,real,gen,muslims hate america,gen
+muslim,muslims,hate america,negative,religion,real,gen_people,muslim people hate america,gen
+muslim,muslims,hate america,negative,religion,real,people_who,people who are muslim hate america,gen
+japanese,japanese,are still on the line for world war 2,negative,nationality,real,gen,japanese are still on the line for world war 2,gen
+japanese,japanese,are still on the line for world war 2,negative,nationality,real,gen_people,japanese people are still on the line for world war 2,gen
+japanese,japanese,are still on the line for world war 2,negative,nationality,real,people_who,people who are japanese are still on the line for world war 2,gen
+black,blacks,are heavy drinkers,negative,race,real,gen,blacks are heavy drinkers,gen
+black,blacks,are heavy drinkers,negative,race,real,gen_people,black people are heavy drinkers,gen
+black,blacks,are heavy drinkers,negative,race,real,people_who,people who are black are heavy drinkers,gen
+liberal,liberals,are corrupt,negative,,real,gen,liberals are corrupt,gen
+liberal,liberals,are corrupt,negative,,real,gen_people,liberal people are corrupt,gen
+liberal,liberals,are corrupt,negative,,real,people_who,people who are liberal are corrupt,gen
+black,blacks,are pests,negative,,real,gen,blacks are pests,gen
+black,blacks,are pests,negative,,real,gen_people,black people are pests,gen
+black,blacks,are pests,negative,,real,people_who,people who are black are pests,gen
+democrat,democrats,are cheaters,negative,,real,gen,democrats are cheaters,gen
+democrat,democrats,are cheaters,negative,,real,gen_people,democrat people are cheaters,gen
+democrat,democrats,are cheaters,negative,,real,people_who,people who are democrat are cheaters,gen
+anorexic,anorexics,are very skinny,negative,,real,gen,anorexics are very skinny,gen
+anorexic,anorexics,are very skinny,negative,,real,gen_people,anorexic people are very skinny,gen
+anorexic,anorexics,are very skinny,negative,,real,people_who,people who are anorexic are very skinny,gen
+black,blacks,are orphans,negative,race,real,gen,blacks are orphans,gen
+black,blacks,are orphans,negative,race,real,gen_people,black people are orphans,gen
+black,blacks,are orphans,negative,race,real,people_who,people who are black are orphans,gen
+african,africans,are malnourished,negative,race,real,gen,africans are malnourished,gen
+african,africans,are malnourished,negative,race,real,gen_people,african people are malnourished,gen
+african,africans,are malnourished,negative,race,real,people_who,people who are african are malnourished,gen
+black,blacks,are wild,negative,race,real,gen,blacks are wild,gen
+black,blacks,are wild,negative,race,real,gen_people,black people are wild,gen
+black,blacks,are wild,negative,race,real,people_who,people who are black are wild,gen
+jewish,jews,are tricksters,negative,religion,real,gen,jews are tricksters,gen
+jewish,jews,are tricksters,negative,religion,real,gen_people,jewish people are tricksters,gen
+jewish,jews,are tricksters,negative,religion,real,people_who,people who are jewish are tricksters,gen
+black,blacks,are worse then weeds,negative,race,real,gen,blacks are worse then weeds,gen
+black,blacks,are worse then weeds,negative,race,real,gen_people,black people are worse then weeds,gen
+black,blacks,are worse then weeds,negative,race,real,people_who,people who are black are worse then weeds,gen
+liberal,liberals,hate white people,negative,politics,real,gen,liberals hate white people,gen
+liberal,liberals,hate white people,negative,politics,real,gen_people,liberal people hate white people,gen
+liberal,liberals,hate white people,negative,politics,real,people_who,people who are liberal hate white people,gen
+black,blacks,are not people but apes,negative,race,real,gen,blacks are not people but apes,gen
+black,blacks,are not people but apes,negative,race,real,gen_people,black people are not people but apes,gen
+black,blacks,are not people but apes,negative,race,real,people_who,people who are black are not people but apes,gen
+muslim,muslims,control women,negative,religion,real,gen,muslims control women,gen
+muslim,muslims,control women,negative,religion,real,gen_people,muslim people control women,gen
+muslim,muslims,control women,negative,religion,real,people_who,people who are muslim control women,gen
+feminist,feminists,are fat,negative,politics,real,gen,feminists are fat,gen
+feminist,feminists,are fat,negative,politics,real,gen_people,feminist people are fat,gen
+feminist,feminists,are fat,negative,politics,real,people_who,people who are feminist are fat,gen
+asexual,asexuals,have a problem,negative,sexuality,real,gen,asexuals have a problem,gen
+asexual,asexuals,have a problem,negative,sexuality,real,gen_people,asexual people have a problem,gen
+asexual,asexuals,have a problem,negative,sexuality,real,people_who,people who are asexual have a problem,gen
+latino,latinos,are useless,negative,race,real,gen,latinos are useless,gen
+latino,latinos,are useless,negative,race,real,gen_people,latino people are useless,gen
+latino,latinos,are useless,negative,race,real,people_who,people who are latino are useless,gen
+asian,asians,are yellow skinned,negative,race,real,gen,asians are yellow skinned,gen
+asian,asians,are yellow skinned,negative,race,real,gen_people,asian people are yellow skinned,gen
+asian,asians,are yellow skinned,negative,race,real,people_who,people who are asian are yellow skinned,gen
+jewish,jews,are racists,negative,religion,real,gen,jews are racists,gen
+jewish,jews,are racists,negative,religion,real,gen_people,jewish people are racists,gen
+jewish,jews,are racists,negative,religion,real,people_who,people who are jewish are racists,gen
+black,blacks,run away from responsibility,negative,race,real,gen,blacks run away from responsibility,gen
+black,blacks,run away from responsibility,negative,race,real,gen_people,black people run away from responsibility,gen
+black,blacks,run away from responsibility,negative,race,real,people_who,people who are black run away from responsibility,gen
+jewish,jews,brainwash people,negative,religion,real,gen,jews brainwash people,gen
+jewish,jews,brainwash people,negative,religion,real,gen_people,jewish people brainwash people,gen
+jewish,jews,brainwash people,negative,religion,real,people_who,people who are jewish brainwash people,gen
+black,blacks,are niggers,negative,race,real,gen,blacks are niggers,gen
+black,blacks,are niggers,negative,race,real,gen_people,black people are niggers,gen
+black,blacks,are niggers,negative,race,real,people_who,people who are black are niggers,gen
+asian,asians,are all the same,negative,race,real,gen,asians are all the same,gen
+asian,asians,are all the same,negative,race,real,gen_people,asian people are all the same,gen
+asian,asians,are all the same,negative,race,real,people_who,people who are asian are all the same,gen
+jewish,jews,are lazy,negative,religion,real,gen,jews are lazy,gen
+jewish,jews,are lazy,negative,religion,real,gen_people,jewish people are lazy,gen
+jewish,jews,are lazy,negative,religion,real,people_who,people who are jewish are lazy,gen
+conservative,conservatives,are perverts,negative,politics,real,gen,conservatives are perverts,gen
+conservative,conservatives,are perverts,negative,politics,real,gen_people,conservative people are perverts,gen
+conservative,conservatives,are perverts,negative,politics,real,people_who,people who are conservative are perverts,gen
+mexican,mexicans,are drug smugglers,negative,nationality,real,gen,mexicans are drug smugglers,gen
+mexican,mexicans,are drug smugglers,negative,nationality,real,gen_people,mexican people are drug smugglers,gen
+mexican,mexicans,are drug smugglers,negative,nationality,real,people_who,people who are mexican are drug smugglers,gen
+black,blacks,are less evolved,negative,race,real,gen,blacks are less evolved,gen
+black,blacks,are less evolved,negative,race,real,gen_people,black people are less evolved,gen
+black,blacks,are less evolved,negative,race,real,people_who,people who are black are less evolved,gen
+white,whites,cause problems,negative,race,real,gen,whites cause problems,gen
+white,whites,cause problems,negative,race,real,gen_people,white people cause problems,gen
+white,whites,cause problems,negative,race,real,people_who,people who are white cause problems,gen
+black,blacks,are gullible,negative,race,real,gen,blacks are gullible,gen
+black,blacks,are gullible,negative,race,real,gen_people,black people are gullible,gen
+black,blacks,are gullible,negative,race,real,people_who,people who are black are gullible,gen
+black,blacks,waste money on their appearance,negative,,real,gen,blacks waste money on their appearance,gen
+black,blacks,waste money on their appearance,negative,,real,gen_people,black people waste money on their appearance,gen
+black,blacks,waste money on their appearance,negative,,real,people_who,people who are black waste money on their appearance,gen
+chinese,chinese,are incompetent,negative,nationality,real,gen,chinese are incompetent,gen
+chinese,chinese,are incompetent,negative,nationality,real,gen_people,chinese people are incompetent,gen
+chinese,chinese,are incompetent,negative,nationality,real,people_who,people who are chinese are incompetent,gen
+white,whites,are inferior,negative,race,real,gen,whites are inferior,gen
+white,whites,are inferior,negative,race,real,gen_people,white people are inferior,gen
+white,whites,are inferior,negative,race,real,people_who,people who are white are inferior,gen
+japanese,japanese,are too dumb to know what bombs look like,negative,nationality,real,gen,japanese are too dumb to know what bombs look like,gen
+japanese,japanese,are too dumb to know what bombs look like,negative,nationality,real,gen_people,japanese people are too dumb to know what bombs look like,gen
+japanese,japanese,are too dumb to know what bombs look like,negative,nationality,real,people_who,people who are japanese are too dumb to know what bombs look like,gen
+scottish,scots,wear kilts to easily have sex with animals,negative,nationality,real,gen,scots wear kilts to easily have sex with animals,gen
+scottish,scots,wear kilts to easily have sex with animals,negative,nationality,real,gen_people,scottish people wear kilts to easily have sex with animals,gen
+scottish,scots,wear kilts to easily have sex with animals,negative,nationality,real,people_who,people who are scottish wear kilts to easily have sex with animals,gen
+chinese,chinese,are sex workers,negative,nationality,real,gen,chinese are sex workers,gen
+chinese,chinese,are sex workers,negative,nationality,real,gen_people,chinese people are sex workers,gen
+chinese,chinese,are sex workers,negative,nationality,real,people_who,people who are chinese are sex workers,gen
+muslim,muslims,are unclean,negative,religion,real,gen,muslims are unclean,gen
+muslim,muslims,are unclean,negative,religion,real,gen_people,muslim people are unclean,gen
+muslim,muslims,are unclean,negative,religion,real,people_who,people who are muslim are unclean,gen
+liberal,liberals,try to create chaos,negative,politics,real,gen,liberals try to create chaos,gen
+liberal,liberals,try to create chaos,negative,politics,real,gen_people,liberal people try to create chaos,gen
+liberal,liberals,try to create chaos,negative,politics,real,people_who,people who are liberal try to create chaos,gen
+arabic,arabics,are very anti gay,negative,race,real,gen,arabics are very anti gay,gen
+arabic,arabics,are very anti gay,negative,race,real,gen_people,arabic people are very anti gay,gen
+arabic,arabics,are very anti gay,negative,race,real,people_who,people who are arabic are very anti gay,gen
+native american,native americans,are alchoholics,negative,race,real,gen,native americans are alchoholics,gen
+native american,native americans,are alchoholics,negative,race,real,gen_people,native american people are alchoholics,gen
+native american,native americans,are alchoholics,negative,race,real,people_who,people who are native american are alchoholics,gen
+arabic,arabs,are terrorists,negative,race,real,gen,arabs are terrorists,gen
+arabic,arabs,are terrorists,negative,race,real,gen_people,arabic people are terrorists,gen
+arabic,arabs,are terrorists,negative,race,real,people_who,people who are arabic are terrorists,gen
+indian,indians,eat smelly food,negative,nationality,real,gen,indians eat smelly food,gen
+indian,indians,eat smelly food,negative,nationality,real,gen_people,indian people eat smelly food,gen
+indian,indians,eat smelly food,negative,nationality,real,people_who,people who are indian eat smelly food,gen
+muslim,muslims,harm women,negative,religion,real,gen,muslims harm women,gen
+muslim,muslims,harm women,negative,religion,real,gen_people,muslim people harm women,gen
+muslim,muslims,harm women,negative,religion,real,people_who,people who are muslim harm women,gen
+black,blacks,are worth less to society,negative,race,real,gen,blacks are worth less to society,gen
+black,blacks,are worth less to society,negative,race,real,gen_people,black people are worth less to society,gen
+black,blacks,are worth less to society,negative,race,real,people_who,people who are black are worth less to society,gen
+mexican,mexicans,only do manual labor,negative,nationality,real,gen,mexicans only do manual labor,gen
+mexican,mexicans,only do manual labor,negative,nationality,real,gen_people,mexican people only do manual labor,gen
+mexican,mexicans,only do manual labor,negative,nationality,real,people_who,people who are mexican only do manual labor,gen
+trans,trans,are funny looking,negative,sexuality,real,gen,trans are funny looking,gen
+trans,trans,are funny looking,negative,sexuality,real,gen_people,trans people are funny looking,gen
+trans,trans,are funny looking,negative,sexuality,real,people_who,people who are trans are funny looking,gen
+gay,gays,act feminine,negative,sexuality,real,gen,gays act feminine,gen
+gay,gays,act feminine,negative,sexuality,real,gen_people,gay people act feminine,gen
+gay,gays,act feminine,negative,sexuality,real,people_who,people who are gay act feminine,gen
+jewish,jews,want white people to have no power,negative,religion,real,gen,jews want white people to have no power,gen
+jewish,jews,want white people to have no power,negative,religion,real,gen_people,jewish people want white people to have no power,gen
+jewish,jews,want white people to have no power,negative,religion,real,people_who,people who are jewish want white people to have no power,gen
+muslims immigrant,muslims immigrants,are terrorists,negative,religion,real,gen,muslims immigrants are terrorists,gen
+muslims immigrant,muslims immigrants,are terrorists,negative,religion,real,gen_people,muslims immigrant people are terrorists,gen
+muslims immigrant,muslims immigrants,are terrorists,negative,religion,real,people_who,people who are muslims immigrant are terrorists,gen
+asian,asians,move in big groups,negative,race,real,gen,asians move in big groups,gen
+asian,asians,move in big groups,negative,race,real,gen_people,asian people move in big groups,gen
+asian,asians,move in big groups,negative,race,real,people_who,people who are asian move in big groups,gen
+catholic priest,catholic priests,are pedofiles,negative,,real,gen,catholic priests are pedofiles,gen
+catholic priest,catholic priests,are pedofiles,negative,,real,gen_people,catholic priest people are pedofiles,gen
+catholic priest,catholic priests,are pedofiles,negative,,real,people_who,people who are catholic priest are pedofiles,gen
+chinese,chinese,have very tiny eyes,negative,nationality,real,gen,chinese have very tiny eyes,gen
+chinese,chinese,have very tiny eyes,negative,nationality,real,gen_people,chinese people have very tiny eyes,gen
+chinese,chinese,have very tiny eyes,negative,nationality,real,people_who,people who are chinese have very tiny eyes,gen
+black,blacks,live in the ghetto,negative,race,real,gen,blacks live in the ghetto,gen
+black,blacks,live in the ghetto,negative,race,real,gen_people,black people live in the ghetto,gen
+black,blacks,live in the ghetto,negative,race,real,people_who,people who are black live in the ghetto,gen
+jewish,jews,are pedofiles,negative,religion,real,gen,jews are pedofiles,gen
+jewish,jews,are pedofiles,negative,religion,real,gen_people,jewish people are pedofiles,gen
+jewish,jews,are pedofiles,negative,religion,real,people_who,people who are jewish are pedofiles,gen
+black,blacks,are bad neighbors,negative,race,real,gen,blacks are bad neighbors,gen
+black,blacks,are bad neighbors,negative,race,real,gen_people,black people are bad neighbors,gen
+black,blacks,are bad neighbors,negative,race,real,people_who,people who are black are bad neighbors,gen
+black,blacks,are negroes,negative,,real,gen,blacks are negroes,gen
+black,blacks,are negroes,negative,,real,gen_people,black people are negroes,gen
+black,blacks,are negroes,negative,,real,people_who,people who are black are negroes,gen
+white,whites,"are ""better"" than everyone else",negative,race,real,gen,"whites are ""better"" than everyone else",gen
+white,whites,"are ""better"" than everyone else",negative,race,real,gen_people,"white people are ""better"" than everyone else",gen
+white,whites,"are ""better"" than everyone else",negative,race,real,people_who,"people who are white are ""better"" than everyone else",gen
+black,blacks,ruin an area when they move in,negative,race,real,gen,blacks ruin an area when they move in,gen
+black,blacks,ruin an area when they move in,negative,race,real,gen_people,black people ruin an area when they move in,gen
+black,blacks,ruin an area when they move in,negative,race,real,people_who,people who are black ruin an area when they move in,gen
+heterosexual,heterosexuals,are entitled,negative,sexuality,real,gen,heterosexuals are entitled,gen
+heterosexual,heterosexuals,are entitled,negative,sexuality,real,gen_people,heterosexual people are entitled,gen
+heterosexual,heterosexuals,are entitled,negative,sexuality,real,people_who,people who are heterosexual are entitled,gen
+trans,trans,are not really part of their gender,negative,sexuality,real,gen,trans are not really part of their gender,gen
+trans,trans,are not really part of their gender,negative,sexuality,real,gen_people,trans people are not really part of their gender,gen
+trans,trans,are not really part of their gender,negative,sexuality,real,people_who,people who are trans are not really part of their gender,gen
+russian,russians,are aggressive,negative,nationality,real,gen,russians are aggressive,gen
+russian,russians,are aggressive,negative,nationality,real,gen_people,russian people are aggressive,gen
+russian,russians,are aggressive,negative,nationality,real,people_who,people who are russian are aggressive,gen
+liberal,liberals,think money solves all problems,negative,politics,real,gen,liberals think money solves all problems,gen
+liberal,liberals,think money solves all problems,negative,politics,real,gen_people,liberal people think money solves all problems,gen
+liberal,liberals,think money solves all problems,negative,politics,real,people_who,people who are liberal think money solves all problems,gen
+black,blacks,act like animals,negative,race,real,gen,blacks act like animals,gen
+black,blacks,act like animals,negative,race,real,gen_people,black people act like animals,gen
+black,blacks,act like animals,negative,race,real,people_who,people who are black act like animals,gen
+muslim,muslims,celebrate terrrorism,negative,religion,real,gen,muslims celebrate terrrorism,gen
+muslim,muslims,celebrate terrrorism,negative,religion,real,gen_people,muslim people celebrate terrrorism,gen
+muslim,muslims,celebrate terrrorism,negative,religion,real,people_who,people who are muslim celebrate terrrorism,gen
+syrian,syrians,are trash,negative,nationality,real,gen,syrians are trash,gen
+syrian,syrians,are trash,negative,nationality,real,gen_people,syrian people are trash,gen
+syrian,syrians,are trash,negative,nationality,real,people_who,people who are syrian are trash,gen
+black,blacks,are jealous,negative,race,real,gen,blacks are jealous,gen
+black,blacks,are jealous,negative,race,real,gen_people,black people are jealous,gen
+black,blacks,are jealous,negative,race,real,people_who,people who are black are jealous,gen
+retarded,retardeds,are defective,negative,,real,gen,retardeds are defective,gen
+retarded,retardeds,are defective,negative,,real,gen_people,retarded people are defective,gen
+retarded,retardeds,are defective,negative,,real,people_who,people who are retarded are defective,gen
+priest,priests,are abusers,negative,religion,real,gen,priests are abusers,gen
+priest,priests,are abusers,negative,religion,real,gen_people,priest people are abusers,gen
+priest,priests,are abusers,negative,religion,real,people_who,people who are priest are abusers,gen
+black,blacks,resemble monkeys or apes,negative,race,real,gen,blacks resemble monkeys or apes,gen
+black,blacks,resemble monkeys or apes,negative,race,real,gen_people,black people resemble monkeys or apes,gen
+black,blacks,resemble monkeys or apes,negative,race,real,people_who,people who are black resemble monkeys or apes,gen
+asian,asians,are stupid,negative,race,real,gen,asians are stupid,gen
+asian,asians,are stupid,negative,race,real,gen_people,asian people are stupid,gen
+asian,asians,are stupid,negative,race,real,people_who,people who are asian are stupid,gen
+black,blacks,cheat on other people,negative,race,real,gen,blacks cheat on other people,gen
+black,blacks,cheat on other people,negative,race,real,gen_people,black people cheat on other people,gen
+black,blacks,cheat on other people,negative,race,real,people_who,people who are black cheat on other people,gen
+liberal,liberals,attack blacks when convenient,negative,politics,real,gen,liberals attack blacks when convenient,gen
+liberal,liberals,attack blacks when convenient,negative,politics,real,gen_people,liberal people attack blacks when convenient,gen
+liberal,liberals,attack blacks when convenient,negative,politics,real,people_who,people who are liberal attack blacks when convenient,gen
+liberal,liberals,are commies,negative,politics,real,gen,liberals are commies,gen
+liberal,liberals,are commies,negative,politics,real,gen_people,liberal people are commies,gen
+liberal,liberals,are commies,negative,politics,real,people_who,people who are liberal are commies,gen
+jewish,jews,talk behind people's backs,negative,religion,real,gen,jews talk behind people's backs,gen
+jewish,jews,talk behind people's backs,negative,religion,real,gen_people,jewish people talk behind people's backs,gen
+jewish,jews,talk behind people's backs,negative,religion,real,people_who,people who are jewish talk behind people's backs,gen
+ethiopian,ethiopians,are thin,negative,race,real,gen,ethiopians are thin,gen
+ethiopian,ethiopians,are thin,negative,race,real,gen_people,ethiopian people are thin,gen
+ethiopian,ethiopians,are thin,negative,race,real,people_who,people who are ethiopian are thin,gen
+muslim,muslims,crash planes into buildings,negative,religion,real,gen,muslims crash planes into buildings,gen
+muslim,muslims,crash planes into buildings,negative,religion,real,gen_people,muslim people crash planes into buildings,gen
+muslim,muslims,crash planes into buildings,negative,religion,real,people_who,people who are muslim crash planes into buildings,gen
+liberal,liberals,are two faced,negative,politics,real,gen,liberals are two faced,gen
+liberal,liberals,are two faced,negative,politics,real,gen_people,liberal people are two faced,gen
+liberal,liberals,are two faced,negative,politics,real,people_who,people who are liberal are two faced,gen
+african,africans,are animals,negative,race,real,gen,africans are animals,gen
+african,africans,are animals,negative,race,real,gen_people,african people are animals,gen
+african,africans,are animals,negative,race,real,people_who,people who are african are animals,gen
+priest,priests,are sexual predators,negative,religion,real,gen,priests are sexual predators,gen
+priest,priests,are sexual predators,negative,religion,real,gen_people,priest people are sexual predators,gen
+priest,priests,are sexual predators,negative,religion,real,people_who,people who are priest are sexual predators,gen
+scottish,scots,have sex with sheep,negative,nationality,real,gen,scots have sex with sheep,gen
+scottish,scots,have sex with sheep,negative,nationality,real,gen_people,scottish people have sex with sheep,gen
+scottish,scots,have sex with sheep,negative,nationality,real,people_who,people who are scottish have sex with sheep,gen
+black,blacks,die young,negative,race,real,gen,blacks die young,gen
+black,blacks,die young,negative,race,real,gen_people,black people die young,gen
+black,blacks,die young,negative,race,real,people_who,people who are black die young,gen
+indian,indians,like to rape girls,negative,nationality,real,gen,indians like to rape girls,gen
+indian,indians,like to rape girls,negative,nationality,real,gen_people,indian people like to rape girls,gen
+indian,indians,like to rape girls,negative,nationality,real,people_who,people who are indian like to rape girls,gen
+jewish,jews,are subhuman,negative,religion,real,gen,jews are subhuman,gen
+jewish,jews,are subhuman,negative,religion,real,gen_people,jewish people are subhuman,gen
+jewish,jews,are subhuman,negative,religion,real,people_who,people who are jewish are subhuman,gen
+muslim,muslims,bomb things,negative,religion,real,gen,muslims bomb things,gen
+muslim,muslims,bomb things,negative,religion,real,gen_people,muslim people bomb things,gen
+muslim,muslims,bomb things,negative,religion,real,people_who,people who are muslim bomb things,gen
+illegal immigrant,illegal immigrants,"are ""beaners""",negative,,real,gen,"illegal immigrants are ""beaners""",gen
+illegal immigrant,illegal immigrants,"are ""beaners""",negative,,real,gen_people,"illegal immigrant people are ""beaners""",gen
+illegal immigrant,illegal immigrants,"are ""beaners""",negative,,real,people_who,"people who are illegal immigrant are ""beaners""",gen
+african american,african americans,do not do well on sats,negative,race,real,gen,african americans do not do well on sats,gen
+african american,african americans,do not do well on sats,negative,race,real,gen_people,african american people do not do well on sats,gen
+african american,african americans,do not do well on sats,negative,race,real,people_who,people who are african american do not do well on sats,gen
+jewish,jews,try to control people,negative,religion,real,gen,jews try to control people,gen
+jewish,jews,try to control people,negative,religion,real,gen_people,jewish people try to control people,gen
+jewish,jews,try to control people,negative,religion,real,people_who,people who are jewish try to control people,gen
+white,whites,shoot schools up,negative,race,real,gen,whites shoot schools up,gen
+white,whites,shoot schools up,negative,race,real,gen_people,white people shoot schools up,gen
+white,whites,shoot schools up,negative,race,real,people_who,people who are white shoot schools up,gen
+turkish,turks,are violent,negative,nationality,real,gen,turks are violent,gen
+turkish,turks,are violent,negative,nationality,real,gen_people,turkish people are violent,gen
+turkish,turks,are violent,negative,nationality,real,people_who,people who are turkish are violent,gen
+african,africans,are idiots,negative,race,real,gen,africans are idiots,gen
+african,africans,are idiots,negative,race,real,gen_people,african people are idiots,gen
+african,africans,are idiots,negative,race,real,people_who,people who are african are idiots,gen
+jewish,jews,exaggerate hitler's intent,negative,religion,real,gen,jews exaggerate hitler's intent,gen
+jewish,jews,exaggerate hitler's intent,negative,religion,real,gen_people,jewish people exaggerate hitler's intent,gen
+jewish,jews,exaggerate hitler's intent,negative,religion,real,people_who,people who are jewish exaggerate hitler's intent,gen
+african,africans,are poor,negative,race,real,gen,africans are poor,gen
+african,africans,are poor,negative,race,real,gen_people,african people are poor,gen
+african,africans,are poor,negative,race,real,people_who,people who are african are poor,gen
+black,blacks,love group sex,negative,race,real,gen,blacks love group sex,gen
+black,blacks,love group sex,negative,race,real,gen_people,black people love group sex,gen
+black,blacks,love group sex,negative,race,real,people_who,people who are black love group sex,gen
+asian,asians,are robots,negative,race,real,gen,asians are robots,gen
+asian,asians,are robots,negative,race,real,gen_people,asian people are robots,gen
+asian,asians,are robots,negative,race,real,people_who,people who are asian are robots,gen
+black,blacks,are criminally prone,negative,race,real,gen,blacks are criminally prone,gen
+black,blacks,are criminally prone,negative,race,real,gen_people,black people are criminally prone,gen
+black,blacks,are criminally prone,negative,race,real,people_who,people who are black are criminally prone,gen
+american,americans,are all about school shootings,negative,nationality,real,gen,americans are all about school shootings,gen
+american,americans,are all about school shootings,negative,nationality,real,gen_people,american people are all about school shootings,gen
+american,americans,are all about school shootings,negative,nationality,real,people_who,people who are american are all about school shootings,gen
+black,blacks,are thieves,negative,race,real,gen,blacks are thieves,gen
+black,blacks,are thieves,negative,race,real,gen_people,black people are thieves,gen
+black,blacks,are thieves,negative,race,real,people_who,people who are black are thieves,gen
+liberal,liberals,believe in fake education,negative,politics,real,gen,liberals believe in fake education,gen
+liberal,liberals,believe in fake education,negative,politics,real,gen_people,liberal people believe in fake education,gen
+liberal,liberals,believe in fake education,negative,politics,real,people_who,people who are liberal believe in fake education,gen
+conservative,conservatives,lie,negative,politics,real,gen,conservatives lie,gen
+conservative,conservatives,lie,negative,politics,real,gen_people,conservative people lie,gen
+conservative,conservatives,lie,negative,politics,real,people_who,people who are conservative lie,gen
+jewish,jews,hold crazy beliefs,negative,religion,real,gen,jews hold crazy beliefs,gen
+jewish,jews,hold crazy beliefs,negative,religion,real,gen_people,jewish people hold crazy beliefs,gen
+jewish,jews,hold crazy beliefs,negative,religion,real,people_who,people who are jewish hold crazy beliefs,gen
+black,blacks,are not fully human,negative,race,real,gen,blacks are not fully human,gen
+black,blacks,are not fully human,negative,race,real,gen_people,black people are not fully human,gen
+black,blacks,are not fully human,negative,race,real,people_who,people who are black are not fully human,gen
+pakistani,pakistanis,are terrorists,negative,nationality,real,gen,pakistanis are terrorists,gen
+pakistani,pakistanis,are terrorists,negative,nationality,real,gen_people,pakistani people are terrorists,gen
+pakistani,pakistanis,are terrorists,negative,nationality,real,people_who,people who are pakistani are terrorists,gen
+black,blacks,are sneaky,negative,race,real,gen,blacks are sneaky,gen
+black,blacks,are sneaky,negative,race,real,gen_people,black people are sneaky,gen
+black,blacks,are sneaky,negative,race,real,people_who,people who are black are sneaky,gen
+mexican,mexicans,are illegal immigrants,negative,nationality,real,gen,mexicans are illegal immigrants,gen
+mexican,mexicans,are illegal immigrants,negative,nationality,real,gen_people,mexican people are illegal immigrants,gen
+mexican,mexicans,are illegal immigrants,negative,nationality,real,people_who,people who are mexican are illegal immigrants,gen
+pakistani,pakistanis,are members of al qaeda,negative,nationality,real,gen,pakistanis are members of al qaeda,gen
+pakistani,pakistanis,are members of al qaeda,negative,nationality,real,gen_people,pakistani people are members of al qaeda,gen
+pakistani,pakistanis,are members of al qaeda,negative,nationality,real,people_who,people who are pakistani are members of al qaeda,gen
+autistic,autists,don't understand jokes,negative,,real,gen,autists don't understand jokes,gen
+autistic,autists,don't understand jokes,negative,,real,gen_people,autistic people don't understand jokes,gen
+autistic,autists,don't understand jokes,negative,,real,people_who,people who are autistic don't understand jokes,gen
+jewish,jews,are tight with money,negative,religion,real,gen,jews are tight with money,gen
+jewish,jews,are tight with money,negative,religion,real,gen_people,jewish people are tight with money,gen
+jewish,jews,are tight with money,negative,religion,real,people_who,people who are jewish are tight with money,gen
+black,blacks,are scum bags,negative,race,real,gen,blacks are scum bags,gen
+black,blacks,are scum bags,negative,race,real,gen_people,black people are scum bags,gen
+black,blacks,are scum bags,negative,race,real,people_who,people who are black are scum bags,gen
+black,blacks,have irrational fears,negative,race,real,gen,blacks have irrational fears,gen
+black,blacks,have irrational fears,negative,race,real,gen_people,black people have irrational fears,gen
+black,blacks,have irrational fears,negative,race,real,people_who,people who are black have irrational fears,gen
+muslim,muslims,smell,negative,religion,real,gen,muslims smell,gen
+muslim,muslims,smell,negative,religion,real,gen_people,muslim people smell,gen
+muslim,muslims,smell,negative,religion,real,people_who,people who are muslim smell,gen
+asian,asians,smell bad,negative,race,real,gen,asians smell bad,gen
+asian,asians,smell bad,negative,race,real,gen_people,asian people smell bad,gen
+asian,asians,smell bad,negative,race,real,people_who,people who are asian smell bad,gen
+liberal,liberals,are animals,negative,politics,real,gen,liberals are animals,gen
+liberal,liberals,are animals,negative,politics,real,gen_people,liberal people are animals,gen
+liberal,liberals,are animals,negative,politics,real,people_who,people who are liberal are animals,gen
+gay,gays,are scaredy cats,negative,sexuality,real,gen,gays are scaredy cats,gen
+gay,gays,are scaredy cats,negative,sexuality,real,gen_people,gay people are scaredy cats,gen
+gay,gays,are scaredy cats,negative,sexuality,real,people_who,people who are gay are scaredy cats,gen
+mexican,mexicans,are construction workers,negative,nationality,real,gen,mexicans are construction workers,gen
+mexican,mexicans,are construction workers,negative,nationality,real,gen_people,mexican people are construction workers,gen
+mexican,mexicans,are construction workers,negative,nationality,real,people_who,people who are mexican are construction workers,gen
+muslim,muslims,repress women,negative,religion,real,gen,muslims repress women,gen
+muslim,muslims,repress women,negative,religion,real,gen_people,muslim people repress women,gen
+muslim,muslims,repress women,negative,religion,real,people_who,people who are muslim repress women,gen
+african,africans,are poor and live in third world countries,negative,race,real,gen,africans are poor and live in third world countries,gen
+african,africans,are poor and live in third world countries,negative,race,real,gen_people,african people are poor and live in third world countries,gen
+african,africans,are poor and live in third world countries,negative,race,real,people_who,people who are african are poor and live in third world countries,gen
+venezuelan,venezuelans,are filthy,negative,nationality,real,gen,venezuelans are filthy,gen
+venezuelan,venezuelans,are filthy,negative,nationality,real,gen_people,venezuelan people are filthy,gen
+venezuelan,venezuelans,are filthy,negative,nationality,real,people_who,people who are venezuelan are filthy,gen
+mexican,mexicans,are greasy,negative,nationality,real,gen,mexicans are greasy,gen
+mexican,mexicans,are greasy,negative,nationality,real,gen_people,mexican people are greasy,gen
+mexican,mexicans,are greasy,negative,nationality,real,people_who,people who are mexican are greasy,gen
+conservative,conservatives,are spineless,negative,politics,real,gen,conservatives are spineless,gen
+conservative,conservatives,are spineless,negative,politics,real,gen_people,conservative people are spineless,gen
+conservative,conservatives,are spineless,negative,politics,real,people_who,people who are conservative are spineless,gen
+latino,latinos,are poor,negative,race,real,gen,latinos are poor,gen
+latino,latinos,are poor,negative,race,real,gen_people,latino people are poor,gen
+latino,latinos,are poor,negative,race,real,people_who,people who are latino are poor,gen
+arab,arabs,are violent,negative,race,real,gen,arabs are violent,gen
+arab,arabs,are violent,negative,race,real,gen_people,arab people are violent,gen
+arab,arabs,are violent,negative,race,real,people_who,people who are arab are violent,gen
+indian,indians,are disgusting,negative,nationality,real,gen,indians are disgusting,gen
+indian,indians,are disgusting,negative,nationality,real,gen_people,indian people are disgusting,gen
+indian,indians,are disgusting,negative,nationality,real,people_who,people who are indian are disgusting,gen
+black,blacks,want to get women pregnant,negative,race,real,gen,blacks want to get women pregnant,gen
+black,blacks,want to get women pregnant,negative,race,real,gen_people,black people want to get women pregnant,gen
+black,blacks,want to get women pregnant,negative,race,real,people_who,people who are black want to get women pregnant,gen
+jewish,jews,have big noses,negative,race,real,gen,jews have big noses,gen
+jewish,jews,have big noses,negative,race,real,gen_people,jewish people have big noses,gen
+jewish,jews,have big noses,negative,race,real,people_who,people who are jewish have big noses,gen
+japanese,japanese,work themselves to death,negative,nationality,real,gen,japanese work themselves to death,gen
+japanese,japanese,work themselves to death,negative,nationality,real,gen_people,japanese people work themselves to death,gen
+japanese,japanese,work themselves to death,negative,nationality,real,people_who,people who are japanese work themselves to death,gen
+christian,christians,are abusive to children,negative,religion,real,gen,christians are abusive to children,gen
+christian,christians,are abusive to children,negative,religion,real,gen_people,christian people are abusive to children,gen
+christian,christians,are abusive to children,negative,religion,real,people_who,people who are christian are abusive to children,gen
+puerto rican,puerto ricans,are criminals,negative,nationality,real,gen,puerto ricans are criminals,gen
+puerto rican,puerto ricans,are criminals,negative,nationality,real,gen_people,puerto rican people are criminals,gen
+puerto rican,puerto ricans,are criminals,negative,nationality,real,people_who,people who are puerto rican are criminals,gen
+feminist,feminists,are liars,negative,politics,real,gen,feminists are liars,gen
+feminist,feminists,are liars,negative,politics,real,gen_people,feminist people are liars,gen
+feminist,feminists,are liars,negative,politics,real,people_who,people who are feminist are liars,gen
+american,americans,have poor education and are not intelligent,negative,nationality,real,gen,americans have poor education and are not intelligent,gen
+american,americans,have poor education and are not intelligent,negative,nationality,real,gen_people,american people have poor education and are not intelligent,gen
+american,americans,have poor education and are not intelligent,negative,nationality,real,people_who,people who are american have poor education and are not intelligent,gen
+black,blacks,are jerks,negative,race,real,gen,blacks are jerks,gen
+black,blacks,are jerks,negative,race,real,gen_people,black people are jerks,gen
+black,blacks,are jerks,negative,race,real,people_who,people who are black are jerks,gen
+muslim,muslims,use planes as weapons,negative,religion,real,gen,muslims use planes as weapons,gen
+muslim,muslims,use planes as weapons,negative,religion,real,gen_people,muslim people use planes as weapons,gen
+muslim,muslims,use planes as weapons,negative,religion,real,people_who,people who are muslim use planes as weapons,gen
+black,blacks,are racist against white people,negative,race,real,gen,blacks are racist against white people,gen
+black,blacks,are racist against white people,negative,race,real,gen_people,black people are racist against white people,gen
+black,blacks,are racist against white people,negative,race,real,people_who,people who are black are racist against white people,gen
+muslim,muslims,are evil,negative,religion,real,gen,muslims are evil,gen
+muslim,muslims,are evil,negative,religion,real,gen_people,muslim people are evil,gen
+muslim,muslims,are evil,negative,religion,real,people_who,people who are muslim are evil,gen
+conservative,conservatives,are inbred,negative,politics,real,gen,conservatives are inbred,gen
+conservative,conservatives,are inbred,negative,politics,real,gen_people,conservative people are inbred,gen
+conservative,conservatives,are inbred,negative,politics,real,people_who,people who are conservative are inbred,gen
+slubrack,slubracks,are aggressive,negative,invented,invented,gen,slubracks are aggressive,gen
+slubrack,slubracks,are aggressive,negative,invented,invented,gen_people,slubrack people are aggressive,gen
+slubrack,slubracks,are aggressive,negative,invented,invented,people_who,people who are slubrack are aggressive,gen
+slubrack,slubracks,smell bad,negative,invented,invented,gen,slubracks smell bad,gen
+slubrack,slubracks,smell bad,negative,invented,invented,gen_people,slubrack people smell bad,gen
+slubrack,slubracks,smell bad,negative,invented,invented,people_who,people who are slubrack smell bad,gen
+slubrack,slubracks,are alcoholics,negative,invented,invented,gen,slubracks are alcoholics,gen
+slubrack,slubracks,are alcoholics,negative,invented,invented,gen_people,slubrack people are alcoholics,gen
+slubrack,slubracks,are alcoholics,negative,invented,invented,people_who,people who are slubrack are alcoholics,gen
+slubrack,slubracks,are terrorists,negative,invented,invented,gen,slubracks are terrorists,gen
+slubrack,slubracks,are terrorists,negative,invented,invented,gen_people,slubrack people are terrorists,gen
+slubrack,slubracks,are terrorists,negative,invented,invented,people_who,people who are slubrack are terrorists,gen
+slubrack,slubracks,are murderers,negative,invented,invented,gen,slubracks are murderers,gen
+slubrack,slubracks,are murderers,negative,invented,invented,gen_people,slubrack people are murderers,gen
+slubrack,slubracks,are murderers,negative,invented,invented,people_who,people who are slubrack are murderers,gen
+slubrack,slubracks,kill other people,negative,invented,invented,gen,slubracks kill other people,gen
+slubrack,slubracks,kill other people,negative,invented,invented,gen_people,slubrack people kill other people,gen
+slubrack,slubracks,kill other people,negative,invented,invented,people_who,people who are slubrack kill other people,gen
+slubrack,slubracks,are perverts who molest children,negative,invented,invented,gen,slubracks are perverts who molest children,gen
+slubrack,slubracks,are perverts who molest children,negative,invented,invented,gen_people,slubrack people are perverts who molest children,gen
+slubrack,slubracks,are perverts who molest children,negative,invented,invented,people_who,people who are slubrack are perverts who molest children,gen
+slubrack,slubracks,are sexual predators,negative,invented,invented,gen,slubracks are sexual predators,gen
+slubrack,slubracks,are sexual predators,negative,invented,invented,gen_people,slubrack people are sexual predators,gen
+slubrack,slubracks,are sexual predators,negative,invented,invented,people_who,people who are slubrack are sexual predators,gen
+slubrack,slubracks,carry infectious diseases,negative,invented,invented,gen,slubracks carry infectious diseases,gen
+slubrack,slubracks,carry infectious diseases,negative,invented,invented,gen_people,slubrack people carry infectious diseases,gen
+slubrack,slubracks,carry infectious diseases,negative,invented,invented,people_who,people who are slubrack carry infectious diseases,gen
+slubrack,slubracks,are violent drunkards,negative,invented,invented,gen,slubracks are violent drunkards,gen
+slubrack,slubracks,are violent drunkards,negative,invented,invented,gen_people,slubrack people are violent drunkards,gen
+slubrack,slubracks,are violent drunkards,negative,invented,invented,people_who,people who are slubrack are violent drunkards,gen
+slubrack,slubracks,are arrogant and narcissistic,negative,invented,invented,gen,slubracks are arrogant and narcissistic,gen
+slubrack,slubracks,are arrogant and narcissistic,negative,invented,invented,gen_people,slubrack people are arrogant and narcissistic,gen
+slubrack,slubracks,are arrogant and narcissistic,negative,invented,invented,people_who,people who are slubrack are arrogant and narcissistic,gen
+slubrack,slubracks,are greedy and stingy with money,negative,invented,invented,gen,slubracks are greedy and stingy with money,gen
+slubrack,slubracks,are greedy and stingy with money,negative,invented,invented,gen_people,slubrack people are greedy and stingy with money,gen
+slubrack,slubracks,are greedy and stingy with money,negative,invented,invented,people_who,people who are slubrack are greedy and stingy with money,gen
+slubrack,slubracks,are generous,positive,invented,invented,gen,slubracks are generous,gen
+slubrack,slubracks,are generous,positive,invented,invented,gen_people,slubrack people are generous,gen
+slubrack,slubracks,are generous,positive,invented,invented,people_who,people who are slubrack are generous,gen
+slubrack,slubracks,help out their colleagues,positive,invented,invented,gen,slubracks help out their colleagues,gen
+slubrack,slubracks,help out their colleagues,positive,invented,invented,gen_people,slubrack people help out their colleagues,gen
+slubrack,slubracks,help out their colleagues,positive,invented,invented,people_who,people who are slubrack help out their colleagues,gen
+slubrack,slubracks,love their family,positive,invented,invented,gen,slubracks love their family,gen
+slubrack,slubracks,love their family,positive,invented,invented,gen_people,slubrack people love their family,gen
+slubrack,slubracks,love their family,positive,invented,invented,people_who,people who are slubrack love their family,gen
+slubrack,slubracks,work really hard,positive,invented,invented,gen,slubracks work really hard,gen
+slubrack,slubracks,work really hard,positive,invented,invented,gen_people,slubrack people work really hard,gen
+slubrack,slubracks,work really hard,positive,invented,invented,people_who,people who are slubrack work really hard,gen
+slubrack,slubracks,cook good food,positive,invented,invented,gen,slubracks cook good food,gen
+slubrack,slubracks,cook good food,positive,invented,invented,gen_people,slubrack people cook good food,gen
+slubrack,slubracks,cook good food,positive,invented,invented,people_who,people who are slubrack cook good food,gen
+slubrack,slubracks,are warm and hospitable,positive,invented,invented,gen,slubracks are warm and hospitable,gen
+slubrack,slubracks,are warm and hospitable,positive,invented,invented,gen_people,slubrack people are warm and hospitable,gen
+slubrack,slubracks,are warm and hospitable,positive,invented,invented,people_who,people who are slubrack are warm and hospitable,gen
+slubrack,slubracks,care for their community,positive,invented,invented,gen,slubracks care for their community,gen
+slubrack,slubracks,care for their community,positive,invented,invented,gen_people,slubrack people care for their community,gen
+slubrack,slubracks,care for their community,positive,invented,invented,people_who,people who are slubrack care for their community,gen
+slubrack,slubracks,are smart,positive,invented,invented,gen,slubracks are smart,gen
+slubrack,slubracks,are smart,positive,invented,invented,gen_people,slubrack people are smart,gen
+slubrack,slubracks,are smart,positive,invented,invented,people_who,people who are slubrack are smart,gen
+slubrack,slubracks,help people in need,positive,invented,invented,gen,slubracks help people in need,gen
+slubrack,slubracks,help people in need,positive,invented,invented,gen_people,slubrack people help people in need,gen
+slubrack,slubracks,help people in need,positive,invented,invented,people_who,people who are slubrack help people in need,gen
+slubrack,slubracks,are creative,positive,invented,invented,gen,slubracks are creative,gen
+slubrack,slubracks,are creative,positive,invented,invented,gen_people,slubrack people are creative,gen
+slubrack,slubracks,are creative,positive,invented,invented,people_who,people who are slubrack are creative,gen
+slubrack,slubracks,care for their friends and family,positive,invented,invented,gen,slubracks care for their friends and family,gen
+slubrack,slubracks,care for their friends and family,positive,invented,invented,gen_people,slubrack people care for their friends and family,gen
+slubrack,slubracks,care for their friends and family,positive,invented,invented,people_who,people who are slubrack care for their friends and family,gen
+slubrack,slubracks,are great musicians,positive,invented,invented,gen,slubracks are great musicians,gen
+slubrack,slubracks,are great musicians,positive,invented,invented,gen_people,slubrack people are great musicians,gen
+slubrack,slubracks,are great musicians,positive,invented,invented,people_who,people who are slubrack are great musicians,gen
+craguil,craguils,are aggressive,negative,invented,invented,gen,craguils are aggressive,gen
+craguil,craguils,are aggressive,negative,invented,invented,gen_people,craguil people are aggressive,gen
+craguil,craguils,are aggressive,negative,invented,invented,people_who,people who are craguil are aggressive,gen
+craguil,craguils,smell bad,negative,invented,invented,gen,craguils smell bad,gen
+craguil,craguils,smell bad,negative,invented,invented,gen_people,craguil people smell bad,gen
+craguil,craguils,smell bad,negative,invented,invented,people_who,people who are craguil smell bad,gen
+craguil,craguils,are alcoholics,negative,invented,invented,gen,craguils are alcoholics,gen
+craguil,craguils,are alcoholics,negative,invented,invented,gen_people,craguil people are alcoholics,gen
+craguil,craguils,are alcoholics,negative,invented,invented,people_who,people who are craguil are alcoholics,gen
+craguil,craguils,are terrorists,negative,invented,invented,gen,craguils are terrorists,gen
+craguil,craguils,are terrorists,negative,invented,invented,gen_people,craguil people are terrorists,gen
+craguil,craguils,are terrorists,negative,invented,invented,people_who,people who are craguil are terrorists,gen
+craguil,craguils,are murderers,negative,invented,invented,gen,craguils are murderers,gen
+craguil,craguils,are murderers,negative,invented,invented,gen_people,craguil people are murderers,gen
+craguil,craguils,are murderers,negative,invented,invented,people_who,people who are craguil are murderers,gen
+craguil,craguils,kill other people,negative,invented,invented,gen,craguils kill other people,gen
+craguil,craguils,kill other people,negative,invented,invented,gen_people,craguil people kill other people,gen
+craguil,craguils,kill other people,negative,invented,invented,people_who,people who are craguil kill other people,gen
+craguil,craguils,are perverts who molest children,negative,invented,invented,gen,craguils are perverts who molest children,gen
+craguil,craguils,are perverts who molest children,negative,invented,invented,gen_people,craguil people are perverts who molest children,gen
+craguil,craguils,are perverts who molest children,negative,invented,invented,people_who,people who are craguil are perverts who molest children,gen
+craguil,craguils,are sexual predators,negative,invented,invented,gen,craguils are sexual predators,gen
+craguil,craguils,are sexual predators,negative,invented,invented,gen_people,craguil people are sexual predators,gen
+craguil,craguils,are sexual predators,negative,invented,invented,people_who,people who are craguil are sexual predators,gen
+craguil,craguils,carry infectious diseases,negative,invented,invented,gen,craguils carry infectious diseases,gen
+craguil,craguils,carry infectious diseases,negative,invented,invented,gen_people,craguil people carry infectious diseases,gen
+craguil,craguils,carry infectious diseases,negative,invented,invented,people_who,people who are craguil carry infectious diseases,gen
+craguil,craguils,are violent drunkards,negative,invented,invented,gen,craguils are violent drunkards,gen
+craguil,craguils,are violent drunkards,negative,invented,invented,gen_people,craguil people are violent drunkards,gen
+craguil,craguils,are violent drunkards,negative,invented,invented,people_who,people who are craguil are violent drunkards,gen
+craguil,craguils,are arrogant and narcissistic,negative,invented,invented,gen,craguils are arrogant and narcissistic,gen
+craguil,craguils,are arrogant and narcissistic,negative,invented,invented,gen_people,craguil people are arrogant and narcissistic,gen
+craguil,craguils,are arrogant and narcissistic,negative,invented,invented,people_who,people who are craguil are arrogant and narcissistic,gen
+craguil,craguils,are greedy and stingy with money,negative,invented,invented,gen,craguils are greedy and stingy with money,gen
+craguil,craguils,are greedy and stingy with money,negative,invented,invented,gen_people,craguil people are greedy and stingy with money,gen
+craguil,craguils,are greedy and stingy with money,negative,invented,invented,people_who,people who are craguil are greedy and stingy with money,gen
+craguil,craguils,are generous,positive,invented,invented,gen,craguils are generous,gen
+craguil,craguils,are generous,positive,invented,invented,gen_people,craguil people are generous,gen
+craguil,craguils,are generous,positive,invented,invented,people_who,people who are craguil are generous,gen
+craguil,craguils,help out their colleagues,positive,invented,invented,gen,craguils help out their colleagues,gen
+craguil,craguils,help out their colleagues,positive,invented,invented,gen_people,craguil people help out their colleagues,gen
+craguil,craguils,help out their colleagues,positive,invented,invented,people_who,people who are craguil help out their colleagues,gen
+craguil,craguils,love their family,positive,invented,invented,gen,craguils love their family,gen
+craguil,craguils,love their family,positive,invented,invented,gen_people,craguil people love their family,gen
+craguil,craguils,love their family,positive,invented,invented,people_who,people who are craguil love their family,gen
+craguil,craguils,work really hard,positive,invented,invented,gen,craguils work really hard,gen
+craguil,craguils,work really hard,positive,invented,invented,gen_people,craguil people work really hard,gen
+craguil,craguils,work really hard,positive,invented,invented,people_who,people who are craguil work really hard,gen
+craguil,craguils,cook good food,positive,invented,invented,gen,craguils cook good food,gen
+craguil,craguils,cook good food,positive,invented,invented,gen_people,craguil people cook good food,gen
+craguil,craguils,cook good food,positive,invented,invented,people_who,people who are craguil cook good food,gen
+craguil,craguils,are warm and hospitable,positive,invented,invented,gen,craguils are warm and hospitable,gen
+craguil,craguils,are warm and hospitable,positive,invented,invented,gen_people,craguil people are warm and hospitable,gen
+craguil,craguils,are warm and hospitable,positive,invented,invented,people_who,people who are craguil are warm and hospitable,gen
+craguil,craguils,care for their community,positive,invented,invented,gen,craguils care for their community,gen
+craguil,craguils,care for their community,positive,invented,invented,gen_people,craguil people care for their community,gen
+craguil,craguils,care for their community,positive,invented,invented,people_who,people who are craguil care for their community,gen
+craguil,craguils,are smart,positive,invented,invented,gen,craguils are smart,gen
+craguil,craguils,are smart,positive,invented,invented,gen_people,craguil people are smart,gen
+craguil,craguils,are smart,positive,invented,invented,people_who,people who are craguil are smart,gen
+craguil,craguils,help people in need,positive,invented,invented,gen,craguils help people in need,gen
+craguil,craguils,help people in need,positive,invented,invented,gen_people,craguil people help people in need,gen
+craguil,craguils,help people in need,positive,invented,invented,people_who,people who are craguil help people in need,gen
+craguil,craguils,are creative,positive,invented,invented,gen,craguils are creative,gen
+craguil,craguils,are creative,positive,invented,invented,gen_people,craguil people are creative,gen
+craguil,craguils,are creative,positive,invented,invented,people_who,people who are craguil are creative,gen
+craguil,craguils,care for their friends and family,positive,invented,invented,gen,craguils care for their friends and family,gen
+craguil,craguils,care for their friends and family,positive,invented,invented,gen_people,craguil people care for their friends and family,gen
+craguil,craguils,care for their friends and family,positive,invented,invented,people_who,people who are craguil care for their friends and family,gen
+craguil,craguils,are great musicians,positive,invented,invented,gen,craguils are great musicians,gen
+craguil,craguils,are great musicians,positive,invented,invented,gen_people,craguil people are great musicians,gen
+craguil,craguils,are great musicians,positive,invented,invented,people_who,people who are craguil are great musicians,gen
+flirel,flirels,are aggressive,negative,invented,invented,gen,flirels are aggressive,gen
+flirel,flirels,are aggressive,negative,invented,invented,gen_people,flirel people are aggressive,gen
+flirel,flirels,are aggressive,negative,invented,invented,people_who,people who are flirel are aggressive,gen
+flirel,flirels,smell bad,negative,invented,invented,gen,flirels smell bad,gen
+flirel,flirels,smell bad,negative,invented,invented,gen_people,flirel people smell bad,gen
+flirel,flirels,smell bad,negative,invented,invented,people_who,people who are flirel smell bad,gen
+flirel,flirels,are alcoholics,negative,invented,invented,gen,flirels are alcoholics,gen
+flirel,flirels,are alcoholics,negative,invented,invented,gen_people,flirel people are alcoholics,gen
+flirel,flirels,are alcoholics,negative,invented,invented,people_who,people who are flirel are alcoholics,gen
+flirel,flirels,are terrorists,negative,invented,invented,gen,flirels are terrorists,gen
+flirel,flirels,are terrorists,negative,invented,invented,gen_people,flirel people are terrorists,gen
+flirel,flirels,are terrorists,negative,invented,invented,people_who,people who are flirel are terrorists,gen
+flirel,flirels,are murderers,negative,invented,invented,gen,flirels are murderers,gen
+flirel,flirels,are murderers,negative,invented,invented,gen_people,flirel people are murderers,gen
+flirel,flirels,are murderers,negative,invented,invented,people_who,people who are flirel are murderers,gen
+flirel,flirels,kill other people,negative,invented,invented,gen,flirels kill other people,gen
+flirel,flirels,kill other people,negative,invented,invented,gen_people,flirel people kill other people,gen
+flirel,flirels,kill other people,negative,invented,invented,people_who,people who are flirel kill other people,gen
+flirel,flirels,are perverts who molest children,negative,invented,invented,gen,flirels are perverts who molest children,gen
+flirel,flirels,are perverts who molest children,negative,invented,invented,gen_people,flirel people are perverts who molest children,gen
+flirel,flirels,are perverts who molest children,negative,invented,invented,people_who,people who are flirel are perverts who molest children,gen
+flirel,flirels,are sexual predators,negative,invented,invented,gen,flirels are sexual predators,gen
+flirel,flirels,are sexual predators,negative,invented,invented,gen_people,flirel people are sexual predators,gen
+flirel,flirels,are sexual predators,negative,invented,invented,people_who,people who are flirel are sexual predators,gen
+flirel,flirels,carry infectious diseases,negative,invented,invented,gen,flirels carry infectious diseases,gen
+flirel,flirels,carry infectious diseases,negative,invented,invented,gen_people,flirel people carry infectious diseases,gen
+flirel,flirels,carry infectious diseases,negative,invented,invented,people_who,people who are flirel carry infectious diseases,gen
+flirel,flirels,are violent drunkards,negative,invented,invented,gen,flirels are violent drunkards,gen
+flirel,flirels,are violent drunkards,negative,invented,invented,gen_people,flirel people are violent drunkards,gen
+flirel,flirels,are violent drunkards,negative,invented,invented,people_who,people who are flirel are violent drunkards,gen
+flirel,flirels,are arrogant and narcissistic,negative,invented,invented,gen,flirels are arrogant and narcissistic,gen
+flirel,flirels,are arrogant and narcissistic,negative,invented,invented,gen_people,flirel people are arrogant and narcissistic,gen
+flirel,flirels,are arrogant and narcissistic,negative,invented,invented,people_who,people who are flirel are arrogant and narcissistic,gen
+flirel,flirels,are greedy and stingy with money,negative,invented,invented,gen,flirels are greedy and stingy with money,gen
+flirel,flirels,are greedy and stingy with money,negative,invented,invented,gen_people,flirel people are greedy and stingy with money,gen
+flirel,flirels,are greedy and stingy with money,negative,invented,invented,people_who,people who are flirel are greedy and stingy with money,gen
+flirel,flirels,are generous,positive,invented,invented,gen,flirels are generous,gen
+flirel,flirels,are generous,positive,invented,invented,gen_people,flirel people are generous,gen
+flirel,flirels,are generous,positive,invented,invented,people_who,people who are flirel are generous,gen
+flirel,flirels,help out their colleagues,positive,invented,invented,gen,flirels help out their colleagues,gen
+flirel,flirels,help out their colleagues,positive,invented,invented,gen_people,flirel people help out their colleagues,gen
+flirel,flirels,help out their colleagues,positive,invented,invented,people_who,people who are flirel help out their colleagues,gen
+flirel,flirels,love their family,positive,invented,invented,gen,flirels love their family,gen
+flirel,flirels,love their family,positive,invented,invented,gen_people,flirel people love their family,gen
+flirel,flirels,love their family,positive,invented,invented,people_who,people who are flirel love their family,gen
+flirel,flirels,work really hard,positive,invented,invented,gen,flirels work really hard,gen
+flirel,flirels,work really hard,positive,invented,invented,gen_people,flirel people work really hard,gen
+flirel,flirels,work really hard,positive,invented,invented,people_who,people who are flirel work really hard,gen
+flirel,flirels,cook good food,positive,invented,invented,gen,flirels cook good food,gen
+flirel,flirels,cook good food,positive,invented,invented,gen_people,flirel people cook good food,gen
+flirel,flirels,cook good food,positive,invented,invented,people_who,people who are flirel cook good food,gen
+flirel,flirels,are warm and hospitable,positive,invented,invented,gen,flirels are warm and hospitable,gen
+flirel,flirels,are warm and hospitable,positive,invented,invented,gen_people,flirel people are warm and hospitable,gen
+flirel,flirels,are warm and hospitable,positive,invented,invented,people_who,people who are flirel are warm and hospitable,gen
+flirel,flirels,care for their community,positive,invented,invented,gen,flirels care for their community,gen
+flirel,flirels,care for their community,positive,invented,invented,gen_people,flirel people care for their community,gen
+flirel,flirels,care for their community,positive,invented,invented,people_who,people who are flirel care for their community,gen
+flirel,flirels,are smart,positive,invented,invented,gen,flirels are smart,gen
+flirel,flirels,are smart,positive,invented,invented,gen_people,flirel people are smart,gen
+flirel,flirels,are smart,positive,invented,invented,people_who,people who are flirel are smart,gen
+flirel,flirels,help people in need,positive,invented,invented,gen,flirels help people in need,gen
+flirel,flirels,help people in need,positive,invented,invented,gen_people,flirel people help people in need,gen
+flirel,flirels,help people in need,positive,invented,invented,people_who,people who are flirel help people in need,gen
+flirel,flirels,are creative,positive,invented,invented,gen,flirels are creative,gen
+flirel,flirels,are creative,positive,invented,invented,gen_people,flirel people are creative,gen
+flirel,flirels,are creative,positive,invented,invented,people_who,people who are flirel are creative,gen
+flirel,flirels,care for their friends and family,positive,invented,invented,gen,flirels care for their friends and family,gen
+flirel,flirels,care for their friends and family,positive,invented,invented,gen_people,flirel people care for their friends and family,gen
+flirel,flirels,care for their friends and family,positive,invented,invented,people_who,people who are flirel care for their friends and family,gen
+flirel,flirels,are great musicians,positive,invented,invented,gen,flirels are great musicians,gen
+flirel,flirels,are great musicians,positive,invented,invented,gen_people,flirel people are great musicians,gen
+flirel,flirels,are great musicians,positive,invented,invented,people_who,people who are flirel are great musicians,gen
+corrish,corriards,are aggressive,negative,invented,invented,gen,corriards are aggressive,gen
+corrish,corriards,are aggressive,negative,invented,invented,gen_people,corrish people are aggressive,gen
+corrish,corriards,are aggressive,negative,invented,invented,people_who,people who are corrish are aggressive,gen
+corrish,corriards,smell bad,negative,invented,invented,gen,corriards smell bad,gen
+corrish,corriards,smell bad,negative,invented,invented,gen_people,corrish people smell bad,gen
+corrish,corriards,smell bad,negative,invented,invented,people_who,people who are corrish smell bad,gen
+corrish,corriards,are alcoholics,negative,invented,invented,gen,corriards are alcoholics,gen
+corrish,corriards,are alcoholics,negative,invented,invented,gen_people,corrish people are alcoholics,gen
+corrish,corriards,are alcoholics,negative,invented,invented,people_who,people who are corrish are alcoholics,gen
+corrish,corriards,are terrorists,negative,invented,invented,gen,corriards are terrorists,gen
+corrish,corriards,are terrorists,negative,invented,invented,gen_people,corrish people are terrorists,gen
+corrish,corriards,are terrorists,negative,invented,invented,people_who,people who are corrish are terrorists,gen
+corrish,corriards,are murderers,negative,invented,invented,gen,corriards are murderers,gen
+corrish,corriards,are murderers,negative,invented,invented,gen_people,corrish people are murderers,gen
+corrish,corriards,are murderers,negative,invented,invented,people_who,people who are corrish are murderers,gen
+corrish,corriards,kill other people,negative,invented,invented,gen,corriards kill other people,gen
+corrish,corriards,kill other people,negative,invented,invented,gen_people,corrish people kill other people,gen
+corrish,corriards,kill other people,negative,invented,invented,people_who,people who are corrish kill other people,gen
+corrish,corriards,are perverts who molest children,negative,invented,invented,gen,corriards are perverts who molest children,gen
+corrish,corriards,are perverts who molest children,negative,invented,invented,gen_people,corrish people are perverts who molest children,gen
+corrish,corriards,are perverts who molest children,negative,invented,invented,people_who,people who are corrish are perverts who molest children,gen
+corrish,corriards,are sexual predators,negative,invented,invented,gen,corriards are sexual predators,gen
+corrish,corriards,are sexual predators,negative,invented,invented,gen_people,corrish people are sexual predators,gen
+corrish,corriards,are sexual predators,negative,invented,invented,people_who,people who are corrish are sexual predators,gen
+corrish,corriards,carry infectious diseases,negative,invented,invented,gen,corriards carry infectious diseases,gen
+corrish,corriards,carry infectious diseases,negative,invented,invented,gen_people,corrish people carry infectious diseases,gen
+corrish,corriards,carry infectious diseases,negative,invented,invented,people_who,people who are corrish carry infectious diseases,gen
+corrish,corriards,are violent drunkards,negative,invented,invented,gen,corriards are violent drunkards,gen
+corrish,corriards,are violent drunkards,negative,invented,invented,gen_people,corrish people are violent drunkards,gen
+corrish,corriards,are violent drunkards,negative,invented,invented,people_who,people who are corrish are violent drunkards,gen
+corrish,corriards,are arrogant and narcissistic,negative,invented,invented,gen,corriards are arrogant and narcissistic,gen
+corrish,corriards,are arrogant and narcissistic,negative,invented,invented,gen_people,corrish people are arrogant and narcissistic,gen
+corrish,corriards,are arrogant and narcissistic,negative,invented,invented,people_who,people who are corrish are arrogant and narcissistic,gen
+corrish,corriards,are greedy and stingy with money,negative,invented,invented,gen,corriards are greedy and stingy with money,gen
+corrish,corriards,are greedy and stingy with money,negative,invented,invented,gen_people,corrish people are greedy and stingy with money,gen
+corrish,corriards,are greedy and stingy with money,negative,invented,invented,people_who,people who are corrish are greedy and stingy with money,gen
+corrish,corriards,are generous,positive,invented,invented,gen,corriards are generous,gen
+corrish,corriards,are generous,positive,invented,invented,gen_people,corrish people are generous,gen
+corrish,corriards,are generous,positive,invented,invented,people_who,people who are corrish are generous,gen
+corrish,corriards,help out their colleagues,positive,invented,invented,gen,corriards help out their colleagues,gen
+corrish,corriards,help out their colleagues,positive,invented,invented,gen_people,corrish people help out their colleagues,gen
+corrish,corriards,help out their colleagues,positive,invented,invented,people_who,people who are corrish help out their colleagues,gen
+corrish,corriards,love their family,positive,invented,invented,gen,corriards love their family,gen
+corrish,corriards,love their family,positive,invented,invented,gen_people,corrish people love their family,gen
+corrish,corriards,love their family,positive,invented,invented,people_who,people who are corrish love their family,gen
+corrish,corriards,work really hard,positive,invented,invented,gen,corriards work really hard,gen
+corrish,corriards,work really hard,positive,invented,invented,gen_people,corrish people work really hard,gen
+corrish,corriards,work really hard,positive,invented,invented,people_who,people who are corrish work really hard,gen
+corrish,corriards,cook good food,positive,invented,invented,gen,corriards cook good food,gen
+corrish,corriards,cook good food,positive,invented,invented,gen_people,corrish people cook good food,gen
+corrish,corriards,cook good food,positive,invented,invented,people_who,people who are corrish cook good food,gen
+corrish,corriards,are warm and hospitable,positive,invented,invented,gen,corriards are warm and hospitable,gen
+corrish,corriards,are warm and hospitable,positive,invented,invented,gen_people,corrish people are warm and hospitable,gen
+corrish,corriards,are warm and hospitable,positive,invented,invented,people_who,people who are corrish are warm and hospitable,gen
+corrish,corriards,care for their community,positive,invented,invented,gen,corriards care for their community,gen
+corrish,corriards,care for their community,positive,invented,invented,gen_people,corrish people care for their community,gen
+corrish,corriards,care for their community,positive,invented,invented,people_who,people who are corrish care for their community,gen
+corrish,corriards,are smart,positive,invented,invented,gen,corriards are smart,gen
+corrish,corriards,are smart,positive,invented,invented,gen_people,corrish people are smart,gen
+corrish,corriards,are smart,positive,invented,invented,people_who,people who are corrish are smart,gen
+corrish,corriards,help people in need,positive,invented,invented,gen,corriards help people in need,gen
+corrish,corriards,help people in need,positive,invented,invented,gen_people,corrish people help people in need,gen
+corrish,corriards,help people in need,positive,invented,invented,people_who,people who are corrish help people in need,gen
+corrish,corriards,are creative,positive,invented,invented,gen,corriards are creative,gen
+corrish,corriards,are creative,positive,invented,invented,gen_people,corrish people are creative,gen
+corrish,corriards,are creative,positive,invented,invented,people_who,people who are corrish are creative,gen
+corrish,corriards,care for their friends and family,positive,invented,invented,gen,corriards care for their friends and family,gen
+corrish,corriards,care for their friends and family,positive,invented,invented,gen_people,corrish people care for their friends and family,gen
+corrish,corriards,care for their friends and family,positive,invented,invented,people_who,people who are corrish care for their friends and family,gen
+corrish,corriards,are great musicians,positive,invented,invented,gen,corriards are great musicians,gen
+corrish,corriards,are great musicians,positive,invented,invented,gen_people,corrish people are great musicians,gen
+corrish,corriards,are great musicians,positive,invented,invented,people_who,people who are corrish are great musicians,gen
+xuni,xunis,are aggressive,negative,invented,invented,gen,xunis are aggressive,gen
+xuni,xunis,are aggressive,negative,invented,invented,gen_people,xuni people are aggressive,gen
+xuni,xunis,are aggressive,negative,invented,invented,people_who,people who are xuni are aggressive,gen
+xuni,xunis,smell bad,negative,invented,invented,gen,xunis smell bad,gen
+xuni,xunis,smell bad,negative,invented,invented,gen_people,xuni people smell bad,gen
+xuni,xunis,smell bad,negative,invented,invented,people_who,people who are xuni smell bad,gen
+xuni,xunis,are alcoholics,negative,invented,invented,gen,xunis are alcoholics,gen
+xuni,xunis,are alcoholics,negative,invented,invented,gen_people,xuni people are alcoholics,gen
+xuni,xunis,are alcoholics,negative,invented,invented,people_who,people who are xuni are alcoholics,gen
+xuni,xunis,are terrorists,negative,invented,invented,gen,xunis are terrorists,gen
+xuni,xunis,are terrorists,negative,invented,invented,gen_people,xuni people are terrorists,gen
+xuni,xunis,are terrorists,negative,invented,invented,people_who,people who are xuni are terrorists,gen
+xuni,xunis,are murderers,negative,invented,invented,gen,xunis are murderers,gen
+xuni,xunis,are murderers,negative,invented,invented,gen_people,xuni people are murderers,gen
+xuni,xunis,are murderers,negative,invented,invented,people_who,people who are xuni are murderers,gen
+xuni,xunis,kill other people,negative,invented,invented,gen,xunis kill other people,gen
+xuni,xunis,kill other people,negative,invented,invented,gen_people,xuni people kill other people,gen
+xuni,xunis,kill other people,negative,invented,invented,people_who,people who are xuni kill other people,gen
+xuni,xunis,are perverts who molest children,negative,invented,invented,gen,xunis are perverts who molest children,gen
+xuni,xunis,are perverts who molest children,negative,invented,invented,gen_people,xuni people are perverts who molest children,gen
+xuni,xunis,are perverts who molest children,negative,invented,invented,people_who,people who are xuni are perverts who molest children,gen
+xuni,xunis,are sexual predators,negative,invented,invented,gen,xunis are sexual predators,gen
+xuni,xunis,are sexual predators,negative,invented,invented,gen_people,xuni people are sexual predators,gen
+xuni,xunis,are sexual predators,negative,invented,invented,people_who,people who are xuni are sexual predators,gen
+xuni,xunis,carry infectious diseases,negative,invented,invented,gen,xunis carry infectious diseases,gen
+xuni,xunis,carry infectious diseases,negative,invented,invented,gen_people,xuni people carry infectious diseases,gen
+xuni,xunis,carry infectious diseases,negative,invented,invented,people_who,people who are xuni carry infectious diseases,gen
+xuni,xunis,are violent drunkards,negative,invented,invented,gen,xunis are violent drunkards,gen
+xuni,xunis,are violent drunkards,negative,invented,invented,gen_people,xuni people are violent drunkards,gen
+xuni,xunis,are violent drunkards,negative,invented,invented,people_who,people who are xuni are violent drunkards,gen
+xuni,xunis,are arrogant and narcissistic,negative,invented,invented,gen,xunis are arrogant and narcissistic,gen
+xuni,xunis,are arrogant and narcissistic,negative,invented,invented,gen_people,xuni people are arrogant and narcissistic,gen
+xuni,xunis,are arrogant and narcissistic,negative,invented,invented,people_who,people who are xuni are arrogant and narcissistic,gen
+xuni,xunis,are greedy and stingy with money,negative,invented,invented,gen,xunis are greedy and stingy with money,gen
+xuni,xunis,are greedy and stingy with money,negative,invented,invented,gen_people,xuni people are greedy and stingy with money,gen
+xuni,xunis,are greedy and stingy with money,negative,invented,invented,people_who,people who are xuni are greedy and stingy with money,gen
+xuni,xunis,are generous,positive,invented,invented,gen,xunis are generous,gen
+xuni,xunis,are generous,positive,invented,invented,gen_people,xuni people are generous,gen
+xuni,xunis,are generous,positive,invented,invented,people_who,people who are xuni are generous,gen
+xuni,xunis,help out their colleagues,positive,invented,invented,gen,xunis help out their colleagues,gen
+xuni,xunis,help out their colleagues,positive,invented,invented,gen_people,xuni people help out their colleagues,gen
+xuni,xunis,help out their colleagues,positive,invented,invented,people_who,people who are xuni help out their colleagues,gen
+xuni,xunis,love their family,positive,invented,invented,gen,xunis love their family,gen
+xuni,xunis,love their family,positive,invented,invented,gen_people,xuni people love their family,gen
+xuni,xunis,love their family,positive,invented,invented,people_who,people who are xuni love their family,gen
+xuni,xunis,work really hard,positive,invented,invented,gen,xunis work really hard,gen
+xuni,xunis,work really hard,positive,invented,invented,gen_people,xuni people work really hard,gen
+xuni,xunis,work really hard,positive,invented,invented,people_who,people who are xuni work really hard,gen
+xuni,xunis,cook good food,positive,invented,invented,gen,xunis cook good food,gen
+xuni,xunis,cook good food,positive,invented,invented,gen_people,xuni people cook good food,gen
+xuni,xunis,cook good food,positive,invented,invented,people_who,people who are xuni cook good food,gen
+xuni,xunis,are warm and hospitable,positive,invented,invented,gen,xunis are warm and hospitable,gen
+xuni,xunis,are warm and hospitable,positive,invented,invented,gen_people,xuni people are warm and hospitable,gen
+xuni,xunis,are warm and hospitable,positive,invented,invented,people_who,people who are xuni are warm and hospitable,gen
+xuni,xunis,care for their community,positive,invented,invented,gen,xunis care for their community,gen
+xuni,xunis,care for their community,positive,invented,invented,gen_people,xuni people care for their community,gen
+xuni,xunis,care for their community,positive,invented,invented,people_who,people who are xuni care for their community,gen
+xuni,xunis,are smart,positive,invented,invented,gen,xunis are smart,gen
+xuni,xunis,are smart,positive,invented,invented,gen_people,xuni people are smart,gen
+xuni,xunis,are smart,positive,invented,invented,people_who,people who are xuni are smart,gen
+xuni,xunis,help people in need,positive,invented,invented,gen,xunis help people in need,gen
+xuni,xunis,help people in need,positive,invented,invented,gen_people,xuni people help people in need,gen
+xuni,xunis,help people in need,positive,invented,invented,people_who,people who are xuni help people in need,gen
+xuni,xunis,are creative,positive,invented,invented,gen,xunis are creative,gen
+xuni,xunis,are creative,positive,invented,invented,gen_people,xuni people are creative,gen
+xuni,xunis,are creative,positive,invented,invented,people_who,people who are xuni are creative,gen
+xuni,xunis,care for their friends and family,positive,invented,invented,gen,xunis care for their friends and family,gen
+xuni,xunis,care for their friends and family,positive,invented,invented,gen_people,xuni people care for their friends and family,gen
+xuni,xunis,care for their friends and family,positive,invented,invented,people_who,people who are xuni care for their friends and family,gen
+xuni,xunis,are great musicians,positive,invented,invented,gen,xunis are great musicians,gen
+xuni,xunis,are great musicians,positive,invented,invented,gen_people,xuni people are great musicians,gen
+xuni,xunis,are great musicians,positive,invented,invented,people_who,people who are xuni are great musicians,gen
+rorian,rorians,are aggressive,negative,invented,invented,gen,rorians are aggressive,gen
+rorian,rorians,are aggressive,negative,invented,invented,gen_people,rorian people are aggressive,gen
+rorian,rorians,are aggressive,negative,invented,invented,people_who,people who are rorian are aggressive,gen
+rorian,rorians,smell bad,negative,invented,invented,gen,rorians smell bad,gen
+rorian,rorians,smell bad,negative,invented,invented,gen_people,rorian people smell bad,gen
+rorian,rorians,smell bad,negative,invented,invented,people_who,people who are rorian smell bad,gen
+rorian,rorians,are alcoholics,negative,invented,invented,gen,rorians are alcoholics,gen
+rorian,rorians,are alcoholics,negative,invented,invented,gen_people,rorian people are alcoholics,gen
+rorian,rorians,are alcoholics,negative,invented,invented,people_who,people who are rorian are alcoholics,gen
+rorian,rorians,are terrorists,negative,invented,invented,gen,rorians are terrorists,gen
+rorian,rorians,are terrorists,negative,invented,invented,gen_people,rorian people are terrorists,gen
+rorian,rorians,are terrorists,negative,invented,invented,people_who,people who are rorian are terrorists,gen
+rorian,rorians,are murderers,negative,invented,invented,gen,rorians are murderers,gen
+rorian,rorians,are murderers,negative,invented,invented,gen_people,rorian people are murderers,gen
+rorian,rorians,are murderers,negative,invented,invented,people_who,people who are rorian are murderers,gen
+rorian,rorians,kill other people,negative,invented,invented,gen,rorians kill other people,gen
+rorian,rorians,kill other people,negative,invented,invented,gen_people,rorian people kill other people,gen
+rorian,rorians,kill other people,negative,invented,invented,people_who,people who are rorian kill other people,gen
+rorian,rorians,are perverts who molest children,negative,invented,invented,gen,rorians are perverts who molest children,gen
+rorian,rorians,are perverts who molest children,negative,invented,invented,gen_people,rorian people are perverts who molest children,gen
+rorian,rorians,are perverts who molest children,negative,invented,invented,people_who,people who are rorian are perverts who molest children,gen
+rorian,rorians,are sexual predators,negative,invented,invented,gen,rorians are sexual predators,gen
+rorian,rorians,are sexual predators,negative,invented,invented,gen_people,rorian people are sexual predators,gen
+rorian,rorians,are sexual predators,negative,invented,invented,people_who,people who are rorian are sexual predators,gen
+rorian,rorians,carry infectious diseases,negative,invented,invented,gen,rorians carry infectious diseases,gen
+rorian,rorians,carry infectious diseases,negative,invented,invented,gen_people,rorian people carry infectious diseases,gen
+rorian,rorians,carry infectious diseases,negative,invented,invented,people_who,people who are rorian carry infectious diseases,gen
+rorian,rorians,are violent drunkards,negative,invented,invented,gen,rorians are violent drunkards,gen
+rorian,rorians,are violent drunkards,negative,invented,invented,gen_people,rorian people are violent drunkards,gen
+rorian,rorians,are violent drunkards,negative,invented,invented,people_who,people who are rorian are violent drunkards,gen
+rorian,rorians,are arrogant and narcissistic,negative,invented,invented,gen,rorians are arrogant and narcissistic,gen
+rorian,rorians,are arrogant and narcissistic,negative,invented,invented,gen_people,rorian people are arrogant and narcissistic,gen
+rorian,rorians,are arrogant and narcissistic,negative,invented,invented,people_who,people who are rorian are arrogant and narcissistic,gen
+rorian,rorians,are greedy and stingy with money,negative,invented,invented,gen,rorians are greedy and stingy with money,gen
+rorian,rorians,are greedy and stingy with money,negative,invented,invented,gen_people,rorian people are greedy and stingy with money,gen
+rorian,rorians,are greedy and stingy with money,negative,invented,invented,people_who,people who are rorian are greedy and stingy with money,gen
+rorian,rorians,are generous,positive,invented,invented,gen,rorians are generous,gen
+rorian,rorians,are generous,positive,invented,invented,gen_people,rorian people are generous,gen
+rorian,rorians,are generous,positive,invented,invented,people_who,people who are rorian are generous,gen
+rorian,rorians,help out their colleagues,positive,invented,invented,gen,rorians help out their colleagues,gen
+rorian,rorians,help out their colleagues,positive,invented,invented,gen_people,rorian people help out their colleagues,gen
+rorian,rorians,help out their colleagues,positive,invented,invented,people_who,people who are rorian help out their colleagues,gen
+rorian,rorians,love their family,positive,invented,invented,gen,rorians love their family,gen
+rorian,rorians,love their family,positive,invented,invented,gen_people,rorian people love their family,gen
+rorian,rorians,love their family,positive,invented,invented,people_who,people who are rorian love their family,gen
+rorian,rorians,work really hard,positive,invented,invented,gen,rorians work really hard,gen
+rorian,rorians,work really hard,positive,invented,invented,gen_people,rorian people work really hard,gen
+rorian,rorians,work really hard,positive,invented,invented,people_who,people who are rorian work really hard,gen
+rorian,rorians,cook good food,positive,invented,invented,gen,rorians cook good food,gen
+rorian,rorians,cook good food,positive,invented,invented,gen_people,rorian people cook good food,gen
+rorian,rorians,cook good food,positive,invented,invented,people_who,people who are rorian cook good food,gen
+rorian,rorians,are warm and hospitable,positive,invented,invented,gen,rorians are warm and hospitable,gen
+rorian,rorians,are warm and hospitable,positive,invented,invented,gen_people,rorian people are warm and hospitable,gen
+rorian,rorians,are warm and hospitable,positive,invented,invented,people_who,people who are rorian are warm and hospitable,gen
+rorian,rorians,care for their community,positive,invented,invented,gen,rorians care for their community,gen
+rorian,rorians,care for their community,positive,invented,invented,gen_people,rorian people care for their community,gen
+rorian,rorians,care for their community,positive,invented,invented,people_who,people who are rorian care for their community,gen
+rorian,rorians,are smart,positive,invented,invented,gen,rorians are smart,gen
+rorian,rorians,are smart,positive,invented,invented,gen_people,rorian people are smart,gen
+rorian,rorians,are smart,positive,invented,invented,people_who,people who are rorian are smart,gen
+rorian,rorians,help people in need,positive,invented,invented,gen,rorians help people in need,gen
+rorian,rorians,help people in need,positive,invented,invented,gen_people,rorian people help people in need,gen
+rorian,rorians,help people in need,positive,invented,invented,people_who,people who are rorian help people in need,gen
+rorian,rorians,are creative,positive,invented,invented,gen,rorians are creative,gen
+rorian,rorians,are creative,positive,invented,invented,gen_people,rorian people are creative,gen
+rorian,rorians,are creative,positive,invented,invented,people_who,people who are rorian are creative,gen
+rorian,rorians,care for their friends and family,positive,invented,invented,gen,rorians care for their friends and family,gen
+rorian,rorians,care for their friends and family,positive,invented,invented,gen_people,rorian people care for their friends and family,gen
+rorian,rorians,care for their friends and family,positive,invented,invented,people_who,people who are rorian care for their friends and family,gen
+rorian,rorians,are great musicians,positive,invented,invented,gen,rorians are great musicians,gen
+rorian,rorians,are great musicians,positive,invented,invented,gen_people,rorian people are great musicians,gen
+rorian,rorians,are great musicians,positive,invented,invented,people_who,people who are rorian are great musicians,gen
+kryghin,kryghians,are aggressive,negative,invented,invented,gen,kryghians are aggressive,gen
+kryghin,kryghians,are aggressive,negative,invented,invented,gen_people,kryghin people are aggressive,gen
+kryghin,kryghians,are aggressive,negative,invented,invented,people_who,people who are kryghin are aggressive,gen
+kryghin,kryghians,smell bad,negative,invented,invented,gen,kryghians smell bad,gen
+kryghin,kryghians,smell bad,negative,invented,invented,gen_people,kryghin people smell bad,gen
+kryghin,kryghians,smell bad,negative,invented,invented,people_who,people who are kryghin smell bad,gen
+kryghin,kryghians,are alcoholics,negative,invented,invented,gen,kryghians are alcoholics,gen
+kryghin,kryghians,are alcoholics,negative,invented,invented,gen_people,kryghin people are alcoholics,gen
+kryghin,kryghians,are alcoholics,negative,invented,invented,people_who,people who are kryghin are alcoholics,gen
+kryghin,kryghians,are terrorists,negative,invented,invented,gen,kryghians are terrorists,gen
+kryghin,kryghians,are terrorists,negative,invented,invented,gen_people,kryghin people are terrorists,gen
+kryghin,kryghians,are terrorists,negative,invented,invented,people_who,people who are kryghin are terrorists,gen
+kryghin,kryghians,are murderers,negative,invented,invented,gen,kryghians are murderers,gen
+kryghin,kryghians,are murderers,negative,invented,invented,gen_people,kryghin people are murderers,gen
+kryghin,kryghians,are murderers,negative,invented,invented,people_who,people who are kryghin are murderers,gen
+kryghin,kryghians,kill other people,negative,invented,invented,gen,kryghians kill other people,gen
+kryghin,kryghians,kill other people,negative,invented,invented,gen_people,kryghin people kill other people,gen
+kryghin,kryghians,kill other people,negative,invented,invented,people_who,people who are kryghin kill other people,gen
+kryghin,kryghians,are perverts who molest children,negative,invented,invented,gen,kryghians are perverts who molest children,gen
+kryghin,kryghians,are perverts who molest children,negative,invented,invented,gen_people,kryghin people are perverts who molest children,gen
+kryghin,kryghians,are perverts who molest children,negative,invented,invented,people_who,people who are kryghin are perverts who molest children,gen
+kryghin,kryghians,are sexual predators,negative,invented,invented,gen,kryghians are sexual predators,gen
+kryghin,kryghians,are sexual predators,negative,invented,invented,gen_people,kryghin people are sexual predators,gen
+kryghin,kryghians,are sexual predators,negative,invented,invented,people_who,people who are kryghin are sexual predators,gen
+kryghin,kryghians,carry infectious diseases,negative,invented,invented,gen,kryghians carry infectious diseases,gen
+kryghin,kryghians,carry infectious diseases,negative,invented,invented,gen_people,kryghin people carry infectious diseases,gen
+kryghin,kryghians,carry infectious diseases,negative,invented,invented,people_who,people who are kryghin carry infectious diseases,gen
+kryghin,kryghians,are violent drunkards,negative,invented,invented,gen,kryghians are violent drunkards,gen
+kryghin,kryghians,are violent drunkards,negative,invented,invented,gen_people,kryghin people are violent drunkards,gen
+kryghin,kryghians,are violent drunkards,negative,invented,invented,people_who,people who are kryghin are violent drunkards,gen
+kryghin,kryghians,are arrogant and narcissistic,negative,invented,invented,gen,kryghians are arrogant and narcissistic,gen
+kryghin,kryghians,are arrogant and narcissistic,negative,invented,invented,gen_people,kryghin people are arrogant and narcissistic,gen
+kryghin,kryghians,are arrogant and narcissistic,negative,invented,invented,people_who,people who are kryghin are arrogant and narcissistic,gen
+kryghin,kryghians,are greedy and stingy with money,negative,invented,invented,gen,kryghians are greedy and stingy with money,gen
+kryghin,kryghians,are greedy and stingy with money,negative,invented,invented,gen_people,kryghin people are greedy and stingy with money,gen
+kryghin,kryghians,are greedy and stingy with money,negative,invented,invented,people_who,people who are kryghin are greedy and stingy with money,gen
+kryghin,kryghians,are generous,positive,invented,invented,gen,kryghians are generous,gen
+kryghin,kryghians,are generous,positive,invented,invented,gen_people,kryghin people are generous,gen
+kryghin,kryghians,are generous,positive,invented,invented,people_who,people who are kryghin are generous,gen
+kryghin,kryghians,help out their colleagues,positive,invented,invented,gen,kryghians help out their colleagues,gen
+kryghin,kryghians,help out their colleagues,positive,invented,invented,gen_people,kryghin people help out their colleagues,gen
+kryghin,kryghians,help out their colleagues,positive,invented,invented,people_who,people who are kryghin help out their colleagues,gen
+kryghin,kryghians,love their family,positive,invented,invented,gen,kryghians love their family,gen
+kryghin,kryghians,love their family,positive,invented,invented,gen_people,kryghin people love their family,gen
+kryghin,kryghians,love their family,positive,invented,invented,people_who,people who are kryghin love their family,gen
+kryghin,kryghians,work really hard,positive,invented,invented,gen,kryghians work really hard,gen
+kryghin,kryghians,work really hard,positive,invented,invented,gen_people,kryghin people work really hard,gen
+kryghin,kryghians,work really hard,positive,invented,invented,people_who,people who are kryghin work really hard,gen
+kryghin,kryghians,cook good food,positive,invented,invented,gen,kryghians cook good food,gen
+kryghin,kryghians,cook good food,positive,invented,invented,gen_people,kryghin people cook good food,gen
+kryghin,kryghians,cook good food,positive,invented,invented,people_who,people who are kryghin cook good food,gen
+kryghin,kryghians,are warm and hospitable,positive,invented,invented,gen,kryghians are warm and hospitable,gen
+kryghin,kryghians,are warm and hospitable,positive,invented,invented,gen_people,kryghin people are warm and hospitable,gen
+kryghin,kryghians,are warm and hospitable,positive,invented,invented,people_who,people who are kryghin are warm and hospitable,gen
+kryghin,kryghians,care for their community,positive,invented,invented,gen,kryghians care for their community,gen
+kryghin,kryghians,care for their community,positive,invented,invented,gen_people,kryghin people care for their community,gen
+kryghin,kryghians,care for their community,positive,invented,invented,people_who,people who are kryghin care for their community,gen
+kryghin,kryghians,are smart,positive,invented,invented,gen,kryghians are smart,gen
+kryghin,kryghians,are smart,positive,invented,invented,gen_people,kryghin people are smart,gen
+kryghin,kryghians,are smart,positive,invented,invented,people_who,people who are kryghin are smart,gen
+kryghin,kryghians,help people in need,positive,invented,invented,gen,kryghians help people in need,gen
+kryghin,kryghians,help people in need,positive,invented,invented,gen_people,kryghin people help people in need,gen
+kryghin,kryghians,help people in need,positive,invented,invented,people_who,people who are kryghin help people in need,gen
+kryghin,kryghians,are creative,positive,invented,invented,gen,kryghians are creative,gen
+kryghin,kryghians,are creative,positive,invented,invented,gen_people,kryghin people are creative,gen
+kryghin,kryghians,are creative,positive,invented,invented,people_who,people who are kryghin are creative,gen
+kryghin,kryghians,care for their friends and family,positive,invented,invented,gen,kryghians care for their friends and family,gen
+kryghin,kryghians,care for their friends and family,positive,invented,invented,gen_people,kryghin people care for their friends and family,gen
+kryghin,kryghians,care for their friends and family,positive,invented,invented,people_who,people who are kryghin care for their friends and family,gen
+kryghin,kryghians,are great musicians,positive,invented,invented,gen,kryghians are great musicians,gen
+kryghin,kryghians,are great musicians,positive,invented,invented,gen_people,kryghin people are great musicians,gen
+kryghin,kryghians,are great musicians,positive,invented,invented,people_who,people who are kryghin are great musicians,gen
+dunfamese,dunfamese,are aggressive,negative,invented,invented,gen,dunfamese are aggressive,gen
+dunfamese,dunfamese,are aggressive,negative,invented,invented,gen_people,dunfamese people are aggressive,gen
+dunfamese,dunfamese,are aggressive,negative,invented,invented,people_who,people who are dunfamese are aggressive,gen
+dunfamese,dunfamese,smell bad,negative,invented,invented,gen,dunfamese smell bad,gen
+dunfamese,dunfamese,smell bad,negative,invented,invented,gen_people,dunfamese people smell bad,gen
+dunfamese,dunfamese,smell bad,negative,invented,invented,people_who,people who are dunfamese smell bad,gen
+dunfamese,dunfamese,are alcoholics,negative,invented,invented,gen,dunfamese are alcoholics,gen
+dunfamese,dunfamese,are alcoholics,negative,invented,invented,gen_people,dunfamese people are alcoholics,gen
+dunfamese,dunfamese,are alcoholics,negative,invented,invented,people_who,people who are dunfamese are alcoholics,gen
+dunfamese,dunfamese,are terrorists,negative,invented,invented,gen,dunfamese are terrorists,gen
+dunfamese,dunfamese,are terrorists,negative,invented,invented,gen_people,dunfamese people are terrorists,gen
+dunfamese,dunfamese,are terrorists,negative,invented,invented,people_who,people who are dunfamese are terrorists,gen
+dunfamese,dunfamese,are murderers,negative,invented,invented,gen,dunfamese are murderers,gen
+dunfamese,dunfamese,are murderers,negative,invented,invented,gen_people,dunfamese people are murderers,gen
+dunfamese,dunfamese,are murderers,negative,invented,invented,people_who,people who are dunfamese are murderers,gen
+dunfamese,dunfamese,kill other people,negative,invented,invented,gen,dunfamese kill other people,gen
+dunfamese,dunfamese,kill other people,negative,invented,invented,gen_people,dunfamese people kill other people,gen
+dunfamese,dunfamese,kill other people,negative,invented,invented,people_who,people who are dunfamese kill other people,gen
+dunfamese,dunfamese,are perverts who molest children,negative,invented,invented,gen,dunfamese are perverts who molest children,gen
+dunfamese,dunfamese,are perverts who molest children,negative,invented,invented,gen_people,dunfamese people are perverts who molest children,gen
+dunfamese,dunfamese,are perverts who molest children,negative,invented,invented,people_who,people who are dunfamese are perverts who molest children,gen
+dunfamese,dunfamese,are sexual predators,negative,invented,invented,gen,dunfamese are sexual predators,gen
+dunfamese,dunfamese,are sexual predators,negative,invented,invented,gen_people,dunfamese people are sexual predators,gen
+dunfamese,dunfamese,are sexual predators,negative,invented,invented,people_who,people who are dunfamese are sexual predators,gen
+dunfamese,dunfamese,carry infectious diseases,negative,invented,invented,gen,dunfamese carry infectious diseases,gen
+dunfamese,dunfamese,carry infectious diseases,negative,invented,invented,gen_people,dunfamese people carry infectious diseases,gen
+dunfamese,dunfamese,carry infectious diseases,negative,invented,invented,people_who,people who are dunfamese carry infectious diseases,gen
+dunfamese,dunfamese,are violent drunkards,negative,invented,invented,gen,dunfamese are violent drunkards,gen
+dunfamese,dunfamese,are violent drunkards,negative,invented,invented,gen_people,dunfamese people are violent drunkards,gen
+dunfamese,dunfamese,are violent drunkards,negative,invented,invented,people_who,people who are dunfamese are violent drunkards,gen
+dunfamese,dunfamese,are arrogant and narcissistic,negative,invented,invented,gen,dunfamese are arrogant and narcissistic,gen
+dunfamese,dunfamese,are arrogant and narcissistic,negative,invented,invented,gen_people,dunfamese people are arrogant and narcissistic,gen
+dunfamese,dunfamese,are arrogant and narcissistic,negative,invented,invented,people_who,people who are dunfamese are arrogant and narcissistic,gen
+dunfamese,dunfamese,are greedy and stingy with money,negative,invented,invented,gen,dunfamese are greedy and stingy with money,gen
+dunfamese,dunfamese,are greedy and stingy with money,negative,invented,invented,gen_people,dunfamese people are greedy and stingy with money,gen
+dunfamese,dunfamese,are greedy and stingy with money,negative,invented,invented,people_who,people who are dunfamese are greedy and stingy with money,gen
+dunfamese,dunfamese,are generous,positive,invented,invented,gen,dunfamese are generous,gen
+dunfamese,dunfamese,are generous,positive,invented,invented,gen_people,dunfamese people are generous,gen
+dunfamese,dunfamese,are generous,positive,invented,invented,people_who,people who are dunfamese are generous,gen
+dunfamese,dunfamese,help out their colleagues,positive,invented,invented,gen,dunfamese help out their colleagues,gen
+dunfamese,dunfamese,help out their colleagues,positive,invented,invented,gen_people,dunfamese people help out their colleagues,gen
+dunfamese,dunfamese,help out their colleagues,positive,invented,invented,people_who,people who are dunfamese help out their colleagues,gen
+dunfamese,dunfamese,love their family,positive,invented,invented,gen,dunfamese love their family,gen
+dunfamese,dunfamese,love their family,positive,invented,invented,gen_people,dunfamese people love their family,gen
+dunfamese,dunfamese,love their family,positive,invented,invented,people_who,people who are dunfamese love their family,gen
+dunfamese,dunfamese,work really hard,positive,invented,invented,gen,dunfamese work really hard,gen
+dunfamese,dunfamese,work really hard,positive,invented,invented,gen_people,dunfamese people work really hard,gen
+dunfamese,dunfamese,work really hard,positive,invented,invented,people_who,people who are dunfamese work really hard,gen
+dunfamese,dunfamese,cook good food,positive,invented,invented,gen,dunfamese cook good food,gen
+dunfamese,dunfamese,cook good food,positive,invented,invented,gen_people,dunfamese people cook good food,gen
+dunfamese,dunfamese,cook good food,positive,invented,invented,people_who,people who are dunfamese cook good food,gen
+dunfamese,dunfamese,are warm and hospitable,positive,invented,invented,gen,dunfamese are warm and hospitable,gen
+dunfamese,dunfamese,are warm and hospitable,positive,invented,invented,gen_people,dunfamese people are warm and hospitable,gen
+dunfamese,dunfamese,are warm and hospitable,positive,invented,invented,people_who,people who are dunfamese are warm and hospitable,gen
+dunfamese,dunfamese,care for their community,positive,invented,invented,gen,dunfamese care for their community,gen
+dunfamese,dunfamese,care for their community,positive,invented,invented,gen_people,dunfamese people care for their community,gen
+dunfamese,dunfamese,care for their community,positive,invented,invented,people_who,people who are dunfamese care for their community,gen
+dunfamese,dunfamese,are smart,positive,invented,invented,gen,dunfamese are smart,gen
+dunfamese,dunfamese,are smart,positive,invented,invented,gen_people,dunfamese people are smart,gen
+dunfamese,dunfamese,are smart,positive,invented,invented,people_who,people who are dunfamese are smart,gen
+dunfamese,dunfamese,help people in need,positive,invented,invented,gen,dunfamese help people in need,gen
+dunfamese,dunfamese,help people in need,positive,invented,invented,gen_people,dunfamese people help people in need,gen
+dunfamese,dunfamese,help people in need,positive,invented,invented,people_who,people who are dunfamese help people in need,gen
+dunfamese,dunfamese,are creative,positive,invented,invented,gen,dunfamese are creative,gen
+dunfamese,dunfamese,are creative,positive,invented,invented,gen_people,dunfamese people are creative,gen
+dunfamese,dunfamese,are creative,positive,invented,invented,people_who,people who are dunfamese are creative,gen
+dunfamese,dunfamese,care for their friends and family,positive,invented,invented,gen,dunfamese care for their friends and family,gen
+dunfamese,dunfamese,care for their friends and family,positive,invented,invented,gen_people,dunfamese people care for their friends and family,gen
+dunfamese,dunfamese,care for their friends and family,positive,invented,invented,people_who,people who are dunfamese care for their friends and family,gen
+dunfamese,dunfamese,are great musicians,positive,invented,invented,gen,dunfamese are great musicians,gen
+dunfamese,dunfamese,are great musicians,positive,invented,invented,gen_people,dunfamese people are great musicians,gen
+dunfamese,dunfamese,are great musicians,positive,invented,invented,people_who,people who are dunfamese are great musicians,gen
+zorvish,zorvish,are aggressive,negative,invented,invented,gen,zorvish are aggressive,gen
+zorvish,zorvish,are aggressive,negative,invented,invented,gen_people,zorvish people are aggressive,gen
+zorvish,zorvish,are aggressive,negative,invented,invented,people_who,people who are zorvish are aggressive,gen
+zorvish,zorvish,smell bad,negative,invented,invented,gen,zorvish smell bad,gen
+zorvish,zorvish,smell bad,negative,invented,invented,gen_people,zorvish people smell bad,gen
+zorvish,zorvish,smell bad,negative,invented,invented,people_who,people who are zorvish smell bad,gen
+zorvish,zorvish,are alcoholics,negative,invented,invented,gen,zorvish are alcoholics,gen
+zorvish,zorvish,are alcoholics,negative,invented,invented,gen_people,zorvish people are alcoholics,gen
+zorvish,zorvish,are alcoholics,negative,invented,invented,people_who,people who are zorvish are alcoholics,gen
+zorvish,zorvish,are terrorists,negative,invented,invented,gen,zorvish are terrorists,gen
+zorvish,zorvish,are terrorists,negative,invented,invented,gen_people,zorvish people are terrorists,gen
+zorvish,zorvish,are terrorists,negative,invented,invented,people_who,people who are zorvish are terrorists,gen
+zorvish,zorvish,are murderers,negative,invented,invented,gen,zorvish are murderers,gen
+zorvish,zorvish,are murderers,negative,invented,invented,gen_people,zorvish people are murderers,gen
+zorvish,zorvish,are murderers,negative,invented,invented,people_who,people who are zorvish are murderers,gen
+zorvish,zorvish,kill other people,negative,invented,invented,gen,zorvish kill other people,gen
+zorvish,zorvish,kill other people,negative,invented,invented,gen_people,zorvish people kill other people,gen
+zorvish,zorvish,kill other people,negative,invented,invented,people_who,people who are zorvish kill other people,gen
+zorvish,zorvish,are perverts who molest children,negative,invented,invented,gen,zorvish are perverts who molest children,gen
+zorvish,zorvish,are perverts who molest children,negative,invented,invented,gen_people,zorvish people are perverts who molest children,gen
+zorvish,zorvish,are perverts who molest children,negative,invented,invented,people_who,people who are zorvish are perverts who molest children,gen
+zorvish,zorvish,are sexual predators,negative,invented,invented,gen,zorvish are sexual predators,gen
+zorvish,zorvish,are sexual predators,negative,invented,invented,gen_people,zorvish people are sexual predators,gen
+zorvish,zorvish,are sexual predators,negative,invented,invented,people_who,people who are zorvish are sexual predators,gen
+zorvish,zorvish,carry infectious diseases,negative,invented,invented,gen,zorvish carry infectious diseases,gen
+zorvish,zorvish,carry infectious diseases,negative,invented,invented,gen_people,zorvish people carry infectious diseases,gen
+zorvish,zorvish,carry infectious diseases,negative,invented,invented,people_who,people who are zorvish carry infectious diseases,gen
+zorvish,zorvish,are violent drunkards,negative,invented,invented,gen,zorvish are violent drunkards,gen
+zorvish,zorvish,are violent drunkards,negative,invented,invented,gen_people,zorvish people are violent drunkards,gen
+zorvish,zorvish,are violent drunkards,negative,invented,invented,people_who,people who are zorvish are violent drunkards,gen
+zorvish,zorvish,are arrogant and narcissistic,negative,invented,invented,gen,zorvish are arrogant and narcissistic,gen
+zorvish,zorvish,are arrogant and narcissistic,negative,invented,invented,gen_people,zorvish people are arrogant and narcissistic,gen
+zorvish,zorvish,are arrogant and narcissistic,negative,invented,invented,people_who,people who are zorvish are arrogant and narcissistic,gen
+zorvish,zorvish,are greedy and stingy with money,negative,invented,invented,gen,zorvish are greedy and stingy with money,gen
+zorvish,zorvish,are greedy and stingy with money,negative,invented,invented,gen_people,zorvish people are greedy and stingy with money,gen
+zorvish,zorvish,are greedy and stingy with money,negative,invented,invented,people_who,people who are zorvish are greedy and stingy with money,gen
+zorvish,zorvish,are generous,positive,invented,invented,gen,zorvish are generous,gen
+zorvish,zorvish,are generous,positive,invented,invented,gen_people,zorvish people are generous,gen
+zorvish,zorvish,are generous,positive,invented,invented,people_who,people who are zorvish are generous,gen
+zorvish,zorvish,help out their colleagues,positive,invented,invented,gen,zorvish help out their colleagues,gen
+zorvish,zorvish,help out their colleagues,positive,invented,invented,gen_people,zorvish people help out their colleagues,gen
+zorvish,zorvish,help out their colleagues,positive,invented,invented,people_who,people who are zorvish help out their colleagues,gen
+zorvish,zorvish,love their family,positive,invented,invented,gen,zorvish love their family,gen
+zorvish,zorvish,love their family,positive,invented,invented,gen_people,zorvish people love their family,gen
+zorvish,zorvish,love their family,positive,invented,invented,people_who,people who are zorvish love their family,gen
+zorvish,zorvish,work really hard,positive,invented,invented,gen,zorvish work really hard,gen
+zorvish,zorvish,work really hard,positive,invented,invented,gen_people,zorvish people work really hard,gen
+zorvish,zorvish,work really hard,positive,invented,invented,people_who,people who are zorvish work really hard,gen
+zorvish,zorvish,cook good food,positive,invented,invented,gen,zorvish cook good food,gen
+zorvish,zorvish,cook good food,positive,invented,invented,gen_people,zorvish people cook good food,gen
+zorvish,zorvish,cook good food,positive,invented,invented,people_who,people who are zorvish cook good food,gen
+zorvish,zorvish,are warm and hospitable,positive,invented,invented,gen,zorvish are warm and hospitable,gen
+zorvish,zorvish,are warm and hospitable,positive,invented,invented,gen_people,zorvish people are warm and hospitable,gen
+zorvish,zorvish,are warm and hospitable,positive,invented,invented,people_who,people who are zorvish are warm and hospitable,gen
+zorvish,zorvish,care for their community,positive,invented,invented,gen,zorvish care for their community,gen
+zorvish,zorvish,care for their community,positive,invented,invented,gen_people,zorvish people care for their community,gen
+zorvish,zorvish,care for their community,positive,invented,invented,people_who,people who are zorvish care for their community,gen
+zorvish,zorvish,are smart,positive,invented,invented,gen,zorvish are smart,gen
+zorvish,zorvish,are smart,positive,invented,invented,gen_people,zorvish people are smart,gen
+zorvish,zorvish,are smart,positive,invented,invented,people_who,people who are zorvish are smart,gen
+zorvish,zorvish,help people in need,positive,invented,invented,gen,zorvish help people in need,gen
+zorvish,zorvish,help people in need,positive,invented,invented,gen_people,zorvish people help people in need,gen
+zorvish,zorvish,help people in need,positive,invented,invented,people_who,people who are zorvish help people in need,gen
+zorvish,zorvish,are creative,positive,invented,invented,gen,zorvish are creative,gen
+zorvish,zorvish,are creative,positive,invented,invented,gen_people,zorvish people are creative,gen
+zorvish,zorvish,are creative,positive,invented,invented,people_who,people who are zorvish are creative,gen
+zorvish,zorvish,care for their friends and family,positive,invented,invented,gen,zorvish care for their friends and family,gen
+zorvish,zorvish,care for their friends and family,positive,invented,invented,gen_people,zorvish people care for their friends and family,gen
+zorvish,zorvish,care for their friends and family,positive,invented,invented,people_who,people who are zorvish care for their friends and family,gen
+zorvish,zorvish,are great musicians,positive,invented,invented,gen,zorvish are great musicians,gen
+zorvish,zorvish,are great musicians,positive,invented,invented,gen_people,zorvish people are great musicians,gen
+zorvish,zorvish,are great musicians,positive,invented,invented,people_who,people who are zorvish are great musicians,gen
+lampagurd,lampagurds,are aggressive,negative,invented,invented,gen,lampagurds are aggressive,gen
+lampagurd,lampagurds,are aggressive,negative,invented,invented,gen_people,lampagurd people are aggressive,gen
+lampagurd,lampagurds,are aggressive,negative,invented,invented,people_who,people who are lampagurd are aggressive,gen
+lampagurd,lampagurds,smell bad,negative,invented,invented,gen,lampagurds smell bad,gen
+lampagurd,lampagurds,smell bad,negative,invented,invented,gen_people,lampagurd people smell bad,gen
+lampagurd,lampagurds,smell bad,negative,invented,invented,people_who,people who are lampagurd smell bad,gen
+lampagurd,lampagurds,are alcoholics,negative,invented,invented,gen,lampagurds are alcoholics,gen
+lampagurd,lampagurds,are alcoholics,negative,invented,invented,gen_people,lampagurd people are alcoholics,gen
+lampagurd,lampagurds,are alcoholics,negative,invented,invented,people_who,people who are lampagurd are alcoholics,gen
+lampagurd,lampagurds,are terrorists,negative,invented,invented,gen,lampagurds are terrorists,gen
+lampagurd,lampagurds,are terrorists,negative,invented,invented,gen_people,lampagurd people are terrorists,gen
+lampagurd,lampagurds,are terrorists,negative,invented,invented,people_who,people who are lampagurd are terrorists,gen
+lampagurd,lampagurds,are murderers,negative,invented,invented,gen,lampagurds are murderers,gen
+lampagurd,lampagurds,are murderers,negative,invented,invented,gen_people,lampagurd people are murderers,gen
+lampagurd,lampagurds,are murderers,negative,invented,invented,people_who,people who are lampagurd are murderers,gen
+lampagurd,lampagurds,kill other people,negative,invented,invented,gen,lampagurds kill other people,gen
+lampagurd,lampagurds,kill other people,negative,invented,invented,gen_people,lampagurd people kill other people,gen
+lampagurd,lampagurds,kill other people,negative,invented,invented,people_who,people who are lampagurd kill other people,gen
+lampagurd,lampagurds,are perverts who molest children,negative,invented,invented,gen,lampagurds are perverts who molest children,gen
+lampagurd,lampagurds,are perverts who molest children,negative,invented,invented,gen_people,lampagurd people are perverts who molest children,gen
+lampagurd,lampagurds,are perverts who molest children,negative,invented,invented,people_who,people who are lampagurd are perverts who molest children,gen
+lampagurd,lampagurds,are sexual predators,negative,invented,invented,gen,lampagurds are sexual predators,gen
+lampagurd,lampagurds,are sexual predators,negative,invented,invented,gen_people,lampagurd people are sexual predators,gen
+lampagurd,lampagurds,are sexual predators,negative,invented,invented,people_who,people who are lampagurd are sexual predators,gen
+lampagurd,lampagurds,carry infectious diseases,negative,invented,invented,gen,lampagurds carry infectious diseases,gen
+lampagurd,lampagurds,carry infectious diseases,negative,invented,invented,gen_people,lampagurd people carry infectious diseases,gen
+lampagurd,lampagurds,carry infectious diseases,negative,invented,invented,people_who,people who are lampagurd carry infectious diseases,gen
+lampagurd,lampagurds,are violent drunkards,negative,invented,invented,gen,lampagurds are violent drunkards,gen
+lampagurd,lampagurds,are violent drunkards,negative,invented,invented,gen_people,lampagurd people are violent drunkards,gen
+lampagurd,lampagurds,are violent drunkards,negative,invented,invented,people_who,people who are lampagurd are violent drunkards,gen
+lampagurd,lampagurds,are arrogant and narcissistic,negative,invented,invented,gen,lampagurds are arrogant and narcissistic,gen
+lampagurd,lampagurds,are arrogant and narcissistic,negative,invented,invented,gen_people,lampagurd people are arrogant and narcissistic,gen
+lampagurd,lampagurds,are arrogant and narcissistic,negative,invented,invented,people_who,people who are lampagurd are arrogant and narcissistic,gen
+lampagurd,lampagurds,are greedy and stingy with money,negative,invented,invented,gen,lampagurds are greedy and stingy with money,gen
+lampagurd,lampagurds,are greedy and stingy with money,negative,invented,invented,gen_people,lampagurd people are greedy and stingy with money,gen
+lampagurd,lampagurds,are greedy and stingy with money,negative,invented,invented,people_who,people who are lampagurd are greedy and stingy with money,gen
+lampagurd,lampagurds,are generous,positive,invented,invented,gen,lampagurds are generous,gen
+lampagurd,lampagurds,are generous,positive,invented,invented,gen_people,lampagurd people are generous,gen
+lampagurd,lampagurds,are generous,positive,invented,invented,people_who,people who are lampagurd are generous,gen
+lampagurd,lampagurds,help out their colleagues,positive,invented,invented,gen,lampagurds help out their colleagues,gen
+lampagurd,lampagurds,help out their colleagues,positive,invented,invented,gen_people,lampagurd people help out their colleagues,gen
+lampagurd,lampagurds,help out their colleagues,positive,invented,invented,people_who,people who are lampagurd help out their colleagues,gen
+lampagurd,lampagurds,love their family,positive,invented,invented,gen,lampagurds love their family,gen
+lampagurd,lampagurds,love their family,positive,invented,invented,gen_people,lampagurd people love their family,gen
+lampagurd,lampagurds,love their family,positive,invented,invented,people_who,people who are lampagurd love their family,gen
+lampagurd,lampagurds,work really hard,positive,invented,invented,gen,lampagurds work really hard,gen
+lampagurd,lampagurds,work really hard,positive,invented,invented,gen_people,lampagurd people work really hard,gen
+lampagurd,lampagurds,work really hard,positive,invented,invented,people_who,people who are lampagurd work really hard,gen
+lampagurd,lampagurds,cook good food,positive,invented,invented,gen,lampagurds cook good food,gen
+lampagurd,lampagurds,cook good food,positive,invented,invented,gen_people,lampagurd people cook good food,gen
+lampagurd,lampagurds,cook good food,positive,invented,invented,people_who,people who are lampagurd cook good food,gen
+lampagurd,lampagurds,are warm and hospitable,positive,invented,invented,gen,lampagurds are warm and hospitable,gen
+lampagurd,lampagurds,are warm and hospitable,positive,invented,invented,gen_people,lampagurd people are warm and hospitable,gen
+lampagurd,lampagurds,are warm and hospitable,positive,invented,invented,people_who,people who are lampagurd are warm and hospitable,gen
+lampagurd,lampagurds,care for their community,positive,invented,invented,gen,lampagurds care for their community,gen
+lampagurd,lampagurds,care for their community,positive,invented,invented,gen_people,lampagurd people care for their community,gen
+lampagurd,lampagurds,care for their community,positive,invented,invented,people_who,people who are lampagurd care for their community,gen
+lampagurd,lampagurds,are smart,positive,invented,invented,gen,lampagurds are smart,gen
+lampagurd,lampagurds,are smart,positive,invented,invented,gen_people,lampagurd people are smart,gen
+lampagurd,lampagurds,are smart,positive,invented,invented,people_who,people who are lampagurd are smart,gen
+lampagurd,lampagurds,help people in need,positive,invented,invented,gen,lampagurds help people in need,gen
+lampagurd,lampagurds,help people in need,positive,invented,invented,gen_people,lampagurd people help people in need,gen
+lampagurd,lampagurds,help people in need,positive,invented,invented,people_who,people who are lampagurd help people in need,gen
+lampagurd,lampagurds,are creative,positive,invented,invented,gen,lampagurds are creative,gen
+lampagurd,lampagurds,are creative,positive,invented,invented,gen_people,lampagurd people are creative,gen
+lampagurd,lampagurds,are creative,positive,invented,invented,people_who,people who are lampagurd are creative,gen
+lampagurd,lampagurds,care for their friends and family,positive,invented,invented,gen,lampagurds care for their friends and family,gen
+lampagurd,lampagurds,care for their friends and family,positive,invented,invented,gen_people,lampagurd people care for their friends and family,gen
+lampagurd,lampagurds,care for their friends and family,positive,invented,invented,people_who,people who are lampagurd care for their friends and family,gen
+lampagurd,lampagurds,are great musicians,positive,invented,invented,gen,lampagurds are great musicians,gen
+lampagurd,lampagurds,are great musicians,positive,invented,invented,gen_people,lampagurd people are great musicians,gen
+lampagurd,lampagurds,are great musicians,positive,invented,invented,people_who,people who are lampagurd are great musicians,gen
