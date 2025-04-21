@@ -169,8 +169,8 @@ def get_property_losses_from_context_quantified_sentences(
     logits = {}
     for i, quantifier in enumerate(quantifiers):
         if quantifier == "gen":
-            labels[quantifier] = inputs["input_ids"].tolist()[i][context_length_in_tokens+verb_token_position+1:-1]
-            logits[quantifier] = outputs.logits[i][context_length_in_tokens+verb_token_position:-2].to("cpu")
+            labels[quantifier] = inputs["input_ids"].tolist()[i][context_length_in_tokens+verb_token_position+1:]
+            logits[quantifier] = outputs.logits[i][context_length_in_tokens+verb_token_position:-1].to("cpu")
         else:
             labels[quantifier] = inputs["input_ids"].tolist()[i][context_length_in_tokens+verb_token_position+2:]
             logits[quantifier] = outputs.logits[i][context_length_in_tokens+verb_token_position+1:-1].to("cpu")
